@@ -1,4 +1,4 @@
-# Some Conferences' accepted papers list
+# Some Conferences' accepted paper list
 
 mainly about AI & DM
 
