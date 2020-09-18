@@ -49,7 +49,7 @@ mainly about AI & DM
 
 ## NeurIPS
 
-nips有完整的accepted paper list:[NeurIPS](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-32-2019)
+nips有完整的accepted paper list:[NeurIPS](https://papers.nips.cc/)
 
 Awesome!
 
