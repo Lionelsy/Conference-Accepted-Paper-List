@@ -1,0 +1,741 @@
+### [IJCAI-ECAI-18](https://www.ijcai-18.org/index.html)
+
+July 13-19 2018, Stockholm, Sweden
+
+[HOME](https://www.ijcai-18.org/index.html)[ATTENDING](https://www.ijcai-18.org/accepted-papers/index.html#)[CALLS](https://www.ijcai-18.org/accepted-papers/index.html#)[GRANTS](https://www.ijcai-18.org/accepted-papers/index.html#)[IMPORTANT DATES](https://www.ijcai-18.org/important-dates/index.html)[PROGRAM](https://www.ijcai-18.org/accepted-papers/index.html#)[REGISTRATION](https://www.ijcai-18.org/accepted-papers/index.html#)[SPONSORSHIP](https://www.ijcai-18.org/accepted-papers/index.html#)[COMMITTEES](https://www.ijcai-18.org/accepted-papers/index.html#)[CONTACT](https://www.ijcai-18.org/contact-us/index.html)
+
+## ACCEPTED PAPERS
+
+- [Home](https://www.ijcai-18.org/index.html)
+- /
+
+- Accepted Papers
+
+# Accepted Papers
+
+- MIXGAN: Learning Concepts from Different Domains for Mixture Generation, Guang-Yuan Hao, Hong-Xing Yu, Wei-Shi Zheng
+- GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction, Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng
+- Predicting Complex Activities from Ongoing Multivariate Time Series, Weihao Cheng, Sarah M. Erfani, Rui Zhang, Ramamohanarao Kotagiri
+- The FastMap Algorithm for Shortest Path Computations, Liron Cohen, Tansel Uras, Shiva Jahangiri, Aliyah Arunasalam, Sven Koenig, T. K. Satish Kumar
+- Salient Object Detection by Lossless Feature Reflection, Pingping Zhang, Wei Liu, Huchuan Lu, Chunhua Shen
+- 3D-Aided Deep Pose-Invariant Face Recognition, Jian Zhao, Lin Xiong, Yu Cheng, Yi Cheng, Jianshu Li, Li Zhou, Yan Xu, Jayashree Karlekar, Sugiri Pranata, Shengmei Shen, Junliang Xing, Shuicheng Yan, Jiashi Feng
+- Improving Entity Recommendation with Search Log and Multi-Task Learning, Jizhou Huang, Wei Zhang, Yaming Sun, Haifeng Wang, Ting Liu
+- Dilated Convolutional Network with Iterative Optimization for Continuous Sign Language Recognition, Junfu Pu, Wengang Zhou, Houqiang Li
+- Cascaded SR-GAN for Scale-Adaptive Low Resolution Person Re-identification, Zheng Wang, Mang Ye, Fan Yang, Xiang Bai, Shin’ichi Satoh
+- Visible Thermal Person Re-Identification via Dual-Constrained Top-Ranking, Mang Ye, Zheng Wang, Xiangyuan Lan, Pong C Yuen
+- Teaching Semi-Supervised Classifier via Generalized Distillation, Chen Gong, Xiaojun Chang, Meng Fang, Jian Yang
+- Deep Joint Semantic-Embedding Hashing, Ning Li, Chao Li, Cheng Deng, Xianglong Liu, Xinbo Gao
+- Deep View-Aware Metric Learning for Person Re-Identification, Pu Chen, Xinyi Xu, Cheng Deng
+- Line separation from topographic maps using regional color and spatial information, Pengfei Xu, Qiguang Miao, Tiange Liu, Xiaojiang Chen, Dingyi Fang
+- A Fast Local Search Algorithm for Minimum Weight Dominating Set Problem on Massive Graphs, Yiyuan Wang, Shaowei Cai, Jiejiang Chen, Minghao Yin
+- Solving (Weighted) Partial MaxSAT by Dynamic Local Search for SAT, Zhendong Lei, Shaowei Cai
+- Densely Cascaded Shadow Detection Network via Deeply Supervised Parallel Fusion, Yupei Wang, Xin Zhao, Yin Li, Xuecai Hu, Kaiqi Huang
+- Semantic Structure-based Unsupervised Deep Hashing, Erkun Yang, Cheng Deng, Tongliang Liu, Wei Liu, Dacheng Tao
+- Grouping Attribute Recognition for Pedestrian with Joint Recurrent Learning, Xin Zhao, Liufang Sang, Guiguang Ding, Yuchen Guo, Xiaoming Jin
+- DRPose3D: Depth Ranking in 3D Human Pose Estimation, Min Wang, Xipeng Chen, Wentao Liu, Chen Qian, Liang Lin, Lizhuang Ma
+- Fast Compliance Checking in an OWL2 Fragment, Piero A. Bonatti
+- Impression Allocation for Combating Fraud in E-commerce Via Deep Reinforcement Learning with Action Norm Penalty, Mengchen Zhao, Zhao Li, BO AN, Haifeng Lu, Yifan Yang, Chen Chu
+- FISH-MML: Fisher-HSIC Multi-View Metric Learning, Changqing Zhang, Yeqinq Liu, Yue Liu, Qinghua Hu, Xinwang Liu, Pengfei Zhu
+- Convergence Analysis of Gradient Descent for Eigenvector Computation, Zhiqiang Xu, Xin Cao, Xin Gao
+- Show and Tell More: Topic-Oriented Multi-Sentence Image Captioning, Yuzhao Mao, Chang Zhou, Xiaojie Wang, Ruifan Li
+- On Concept Forgetting in Description Logics with Qualified Number Restrictions, Yizheng Zhao, Renate Schmidt
+- Differentiated Attentive Representation Learning for Sentence Classification, Qianrong Zhou, Xiaojie Wang, Xuan Dong
+- UCBoost: A Boosting Approach to Tame Complexity and Optimality for Stochastic Bandits, Fang Liu, Sinong Wang, Swapna Buccapatnam, Ness Shroff
+- Dynamically Hierarchy Revolution: DirNet for Compressing Recurrent Neural Network on Mobile Devices, Jie Zhang, Xiaolong Wang, Dawei Li, Yalin Wang
+- Analyzing Tie-Breaking Strategies for the A* Algorithm, Augusto Blaas Corrêa, André Grahl Pereira, Marcus Ritt
+- H-Net: Neural Network for Cross-domain Image Patch Matching, Weiquan Liu, Xuelun Shen, Cheng Wang, Zhihong Zhang, Chenglu Wen, Jonathan Li
+- Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks, Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang
+- Jumper: Learning When to Make Classification Decision in Reading, Xianggen Liu, Lili Mou, Haotian Cui, Zhengdong Lu, Sen Song
+- Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism, Wei Qian, Cong Fu, Yu Zhu, Deng Cai, Xiaofei He
+- Improving Implicit Recommender Systems with View Data, Jingtao Ding, Guanghui Yu, Xiangnan He, Yuhan Quan, Yong Li, Tat-Seng Chua, Depeng Jin, Jiajie Yu
+- Variance Reduction in Black-box Variational Inference by Adaptive Importance Sampling, Ximing Li, Changchun Li, Jinjin Chi, Jihong Ouyang
+- Actual Causality in a Logical Setting, Alexander Bochman
+- Self-Representative Manifold Concept Factorization with Adaptive Neighbors for Clustering, Sihan Ma, Lefei Zhang, Wenbin Hu, Yipeng Zhang, Jia Wu, Xuelong Li
+- Managing Communication Costs under Temporal Uncertainty, Nikhil Bhargava, Christian Muise, Tiago Vaquero, Brian Williams
+- Variable-Delay Controllability, Nikhil Bhargava, Christian Muise, Brian Williams
+- Hierarchical Expertise Level Modeling for User Specific Contrastive Explanations, Sarath Sreedharan, Siddharth Srivastava, Subbarao Kambhampati
+- Quality Matters: Assessing cQA Pair Quality via Transductive Multi-View Learning, Xiaochi Wei, Heyan Huang, Liqiang Nie, Fuli Feng, Richang Hong, Tat-Seng Chua
+- Real-time Traffic Pattern Analysis and Inference with Sparse Video Surveillance Information, Yang Wang, Yiwei Xiao, Xike Xie, Ruoyu Chen, Hengchang Liu
+- PredCNN: Predictive Learning with Cascade Convolutions, Ziru Xu, Yunbo Wang, Mingsheng Long, Jianmin Wang
+- Improving Maximum Likelihood Estimation of Temporal Point Process via Discriminative and Adversarial Learning, Junchi Yan, Xin Liu, Liangliang Shi, Changsheng Li, Hongyuan Zha
+- Live Face Verification with Multiple Instantialized Local Homographic Parameterization, Chen Lin, Zhouyingcheng Liao, Peng Zhou, Jianguo Hu, Bingbing Ni
+- Differential Equations for Modeling Asynchronous Algorithms, Li He, Qi Meng, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu
+- Learning to Design Games: Strategic Environments in Reinforcement Learning, Haifeng Zhang, Jun Wang, Zhiming Zhou, Weinan Zhang, Yin Wen, Yong Yu, Wenxin Li
+- A Weakly Supervised Method for Topic Segmentation and Labeling in Goal-oriented Dialogues via Reinforcement Learning, Ryuichi Takanobu, Minlie Huang, Zhongzhou Zhao, Fenglin Li, Haiqing Chen, Xiaoyan Zhu, Liqiang Nie
+- Exploiting Justifications for Lazy Grounding of Answer Set Programs, Bart Bogaerts, Antonius Weinzierl
+- On the Cost Complexity of Crowdsourcing, Yili Fang, Hailong Sun, Pengpeng Chen, Jinpeng Huai
+- Lightweight Label Propagation for Large-Scale Network Data, De-Ming Liang, Yu-Feng Li
+- A Deep Modular RNN Approach for Ethos Mining, Rory Duthie, Katarzyna Budzynska
+- A Brand-level Ranking System with the Customized Attention-GRU Model, Yu Zhu, Junxiong Zhu, Jie Hou, Yongliang Li, Beidou Wang, Ziyu Guan, Deng Cai
+- Interactive Robot Transition Repair With SMT, Jarrett Holtz, Arjun Guha, Joydeep Biswas
+- Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment, Muhao Chen, Yingtao Tian, Kai-Wei Chang, Steven Skiena, Carlo Zaniolo
+- When Does Diversity of Agent Preferences Improve Outcomes in Selfish Routing?, Richard Cole, Thanasis Lianeas, Evdokia Nikolova
+- Recurrent Collaborative Filtering for Unifying General and Sequential Recommender, Disheng Dong, Xiaolin Zheng, Ruixun Zhang, Yan Wang
+- Evaluating Brush Movements for Chinese Calligraphy: A Computer Vision Based Approach, Pengfei Xu, Lei Wang, Ziyu Guan, Xia Zheng, Xiaojiang Chen, Zhanyong Tang, Dingyi Fang, Xiaoqing Gong, Zheng Wang
+- Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding, Zhou Yu, Jun Yu, Chenchao Xiang, Zhou Zhao, Qi Tian, Dacheng Tao
+- Hi-Fi: Hierarchical Feature Integration for Skeleton Detection, Kai Zhao, Wei Shen, Shanghua Gao, Dandan Li, Ming-Ming Cheng
+- Curriculum Learning for Natural Answer Generation, Cao Liu, Shizhu He, Kang Liu, Jun Zhao
+- DEL: Deep Embedding Learning for Efficient Image Segmentation, Yun Liu, Peng-Tao Jiang, Vahan Petrosyan, Shi-Jie Li, Jiawang Bian, Le Zhang, Ming-Ming Cheng
+- A Study of Argumentative Characterisations of Preferred Subtheories, Marcello D’Agostino, Sanjay Modgil
+- Descriptive Clustering: ILP and CP Formulations with Applications, Chia-Tung Kuo, Thi-Bich-Hanh Dao, S. S. Ravi, Christel Vrain, Ian Davidson
+- Image Cationing with Visual-Semantic LSTM, Nannan Li, Zhenzhong Chen
+- Scanpath Prediction for Visual Attention using IOR-ROI LSTM, Zhenzhong Chen, Wanjie Sun
+- Visual Data Synthesis via GAN for Zero-Shot Video Classification, Chenrui Zhang, Yuxin Peng
+- Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification, Chenrui Zhang, Yuxin Peng
+- Dual Adversarial Networks for Zero-shot Cross-media Retrieval, Jingze Chi, Yuxin Peng
+- Open Loop Execution of Tree-Search Algorithms, Erwan Lecarpentier, Guillaume Infantes, Charles Lesire, Emmanuel Rachelson
+- Cross-media Multi-level Alignment with Relation Attention Network, Jinwei Qi, Yuxin Peng, Yuxin Yuan
+- Cross-modal Bidirectional Translation via Reinforcement Learning, Jinwei Qi, Yuxin Peng
+- StackDRL: Stacked Deep Reinforcement Learning for Fine-grained Visual Categorization, Xiangteng He, Yuxin Peng, Junjie Zhao
+- A Comparative Study of Transactional and Semantic Approaches for Predicting Cascades on Twitter, Yunwei Zhao, Can Wang, Chi-Hung Chi, Kwok-Yan Lam, Sen Wang
+- A Simple Convolutional Neural Network for Accurate P300 Detection and Character Spelling in Brain Computer Interface, Hongchang Shan, Yu Liu, Todor Stefanov
+- Quantum Divide-and-Conquer Anchoring for Separable Non-negative Matrix Factorization, Yuxuan Du, Tongliang Liu, Yinan Li, Runyao Duan, Dacheng Tao
+- Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks, Zhou Zhao, Zhu Zhang, Shuwen Xiao, Zhou Yu, Jun Yu, Deng Cai, Fei Wu, Yueting Zhuang
+- SegBot: A Generic Neural Text Segmentation Model with Pointer Network, Jing Li, Aixin Sun, Shafiq Joty
+- 3-in-1 Correlated Embedding via Adaptive Exploration of the Structure and Semantic Subspaces, Liang Yang, Yuanfang Guo, Di Jin, Huazhu Fu, Xiaochun Cao
+- Robust Face Sketch Synthesis via Generative Adversarial Fusion of Priors and Parametric Sigmoid, Shengchuan Zhang, Rongrong Ji, Jie Hu, Yue Gao, Chia-Wen Lin
+- SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks, Ke Wang, Xiaojun Wan
+- Fast Cross-Validation, Yong Liu, Hailun Lin, Lizhong Ding, Weiping Wang, Shizhong Liao
+- Distributed Self-Paced Learning in Alternating Direction Method of Multipliers, Xuchao Zhang, Liang Zhao, Zhiqian Chen, Chang-Tien Lu
+- Learning based Jump-Diffusion Process for Visual Object Tracking in Video Surveillance, Xiaobai Liu, Thuan Chau, Donovan Lo
+- Memory Attention Networks for Skeleton-based Action Recognition, Chunyu Xie, Ce Li, Baochang Zhang, Chen Chen, Jungong Han, Jianzhuang Liu
+- Learning Word Vectors with Linear Constraints: A Matrix Factorization Approach, Wenye Li, Jiawei Zhang, Jianjun Zhou, Laizhong Cui
+- From Reality to Perception: Genre-Based Neural Image Style Transfer, Zhuoqi Ma, Nannan Wang, Xinbo Gao, Jie Li
+- Improving Local Search for Minimum Weight Vertex Cover by Dynamic Strategies, Shaowei Cai, Wenying Hou, Jinkun Lin, Yuanjie Li
+- Learning Sequential Correlation for User Generated Textual Content Popularity Prediction, Wen Wang, Wei Zhang, Jun Wang, Junchi Yan, Hongyuan Zha
+- Episodic Memory Deep Q-Networks, Zichuan Lin, Tianqi Zhao, Guangwen Yang, Lintao Zhang
+- Democratic Fair Allocation of Indivisible Goods, Erel Segal-Halevi, Warut Suksompong
+- Your Tweets Reveal What You Like: Introducing Cross-media Content Information into Multi-domain Recommendation, Weizhi Ma, Min Zhang, Chenyang Wang, Cheng Luo, Yiqun Liu, Shaoping Ma
+- Deep Propagation Based Image Matting, Yu Wang, Yi Niu, Peiyong Duan, Jianwei Lin, Yuanjie Zheng
+- Ensemble Soft-Margin Softmax Loss for Image Classification, Xiaobo Wang, Shifeng Zhang, Zhen Lei, Si Liu, Xiaojie Guo, Stan Z. Li
+- Redundancy-resistant Generative Hashing for Image Retrieval, Changying Du, Xingyu Xie, Changde Du, Hao Wang
+- A Fast Algorithm for Optimally Finding Partially Disjoint Shortest Paths, Longkun Guo, Yunyun Deng, Kewen Liao, Qiang He, Timos Sellis, Zheshan Hu
+- Improving Information Centrality of a Node in Complex Networks by Adding Edges, Liren Shan, Yuhao Yi, Zhongzhi Zhang
+- Multi-modal Circulant Fusion for Video-to-Language and Backward, Aming Wu, Yahong Han
+- Biharmonic Distance Related Centrality for Edges in Weighted Networks, Yuhao Yi, Liren Shan, Huan Li, Zhongzhi Zhang
+- R^3Net: Recurrent Residual Refinement Network for Saliency Detection, Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, Pheng-Ann Heng
+- Explaining Multi-Criteria Decision Aiding Models with an Extended Shapley Value, Christophe Labreuche, Simon Fossier
+- Joint Extraction of Entities and Relations Based on a Novel Graph Scheme, Shaolei Wang, Yue Zhang, Wanxiang Che, Ting Liu
+- Contextual Outlier Interpretation, Ninghao Liu, Donghwa Shin, Xia Hu
+- Unpaired Multi-Domain Image Generation via Regularized Conditional GANs, Xudong Mao, Qing Li
+- Multiway Attention Networks for Modeling Sentence Pairs, Chuanqi Tan, Furu Wei, Wenhui Wang, Weifeng Lv, Ming Zhou
+- Non-translational Alignment for Multi-relational Networks, Shengnan Li, Xin Li, Rui Ye, Mingzhong Wang, Haiping Su, Yingzi Ou
+- GraspNet: An Efficient Convolutional Neural Network for Real-time Grasp Detection for Low-powered Devices, Umar Asif, Jianbin Tang, Stefan Harrer
+- Multi-modal Sentence Summarization with Modality Attention and Image Filtering, Haoran Li, Junnan Zhu, Jiajun Zhang, Chengqing Zong, Tianshang Liu
+- Pairwise-Ranking based Collaborative Recurrent Neural Networks for Clinical Event Prediction, Zhi Qiao, Shiwan Zhao, Cao Xiao, Xiang Li, Yong Qin, Fei Wang
+- An Encoder-Decoder Framework Translating Natural Language to Structural Query Language, Ruichu Cai, Boyan Xu, Zhenjie Zhang, Xiaoyan Yang, Zijian Li, Zhihao Liang
+- Weakly Learning to Match Experts in Online Community, Yujie Qian, Jie Tang, Kan Wu
+- Exploiting POI-Specific Geographical Influence for Point-of-Interest Recommendation, Hao Wang, Huawei Shen, Wentao Ouyang, Xueqi Cheng
+- Efficient Attributed Network Embedding via Recursive Randomized Hashing, Wei Wu, Bin Li, Ling Chen, Chengqi Zhang
+- Abducing Relations in Continuous Spaces, Taisuke Sato, Katsumi Inoue, Chiaki Sakama
+- Annotation-Free and One-Shot Learning for Instance Segmentation of Homogeneous Object Clusters, Zheng Wu, Ruiheng Chang, Jiaxu Ma, Cewu Lu, Chi Keung Tang
+- Toward Designing Convergent Deep Operator Splitting Methods for Task-specific Nonconvex Optimization, Risheng Liu, Shichao Cheng, Yi He, Xin Fan, Zhongxuan Luo
+- Interpretable Recommendation via Attraction Modeling: Learning Multilevel Attractiveness over Multimodal Movie Contents, Liang Hu, Songlei Jian, Longbing Cao, Qingkui Chen
+- View-Volume Network for Semantic Scene Completion from a Single Depth Image, Yuxiao Guo, Xin Tong
+- Harnessing Synthesized Abstraction Images to Improve Facial Attribute Recognition, Keke He, Yanwei Fu, Wuhao Zhang, Chengjie Wang, Yu-Gang Jiang, Feiyue Huang, Xiangyang Xue
+- Finite Sample Analysis of LSTD with Random Projections and Eligibility Traces, Haifang Li, Yingce Xia, Wensheng Zhang
+- Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval, Xiawu Zheng, Rongrong Ji, Xiaoshuai Sun, Yongjian Wu, Feiyue Huang, Yanhua Yang
+- HST-LSTM: A Hierarchical Spatial-Temporal Long-Short Term Memory Network for Location Prediction, Dejiang Kong, Fei Wu
+- Estimating Latent People Flow without Tracking Individuals, Yusuke Tanaka, Tomoharu Iwata, Takeshi Kurashima, Hiroyuki Toda, Naonori Ueda
+- Adversarial Metric Learning, Shuo Chen, Chen Gong, Jian Yang, Xiang Li, Yang Wei, Jun Li
+- Deep Text Classification Can be Fooled, Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi
+- Computational Aspects of the Preference Cores of Supermodular Two-Scenario Cooperative Games, Daisuke Hatano, Yuichi Yoshida
+- Learning with Adaptive Neighbors for Image Clustering, Yang Liu, Quanxue Gao, Zhaohua Yang, Shujian Wang
+- Preventing Disparate Treatment in Sequential Decision Making, Hoda Heidari, Andreas Krause
+- Goal-Oriented Chatbot Dialog Management Bootstrapping with Transfer Learning, Vladimir Ilievski, Claudiu Musat, Andreea Hossman, Michael Baeriswyl
+- Submodularity-Inspired Data Selection for Goal-Oriented Chatbot Training Based on Sentence Embeddings , Mladen Dimovski, Vladimir Ilievski, Claudiu Musat, Andreea Hossman, Michael Baeriswyl
+- Fostering Cooperation in Structured Populations Through Local and Global Interference Strategies, The Anh Han, Simon Lynch, Long Tran-Thanh, Santos Francisco C.
+- DehazeGAN: When Image Dehazing Meets Differential Programming, Hongyuan Zhu, Xi Peng, Vijay Chandrasekhar, Liyuan Li, Joo-Hwee Lim
+- A Generic Approach for Accelerating Stochastic Zeroth-Order Convex Optimization, Xiaotian Yu, Irwin King, Michael R. Lyu, Tianbao Yang
+- A Question Type Driven Framework to Diversify Visual Question Generation, Zhihao Fan, zhongyu wei, Piji Li, Yanyan Lan, Xuanjing Huang
+- Policy Optimization with Second-Order Advantage Information, Jiajin Li, Baoxiang Wang, Shengyu Zhang
+- Trajectory-User Linking via Variational AutoEncoder, Fan Zhou, Qiang Gao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Fengli Zhang
+- ANOMALOUS: A Joint Modeling Approach for Anomaly Detection on Attributed Networks, Zhen Peng, Minnan Luo, Jundong Li, Huan Liu, Qinghua Zheng
+- High Resolution Feature Recovering for Accelerating Urban Scene Parsing, Rui Zhang, Sheng Tang, Luoqi Liu, Yongdong Zhang, Jintao Li, Shuicheng Yan
+- Inconsistency Measures for Repair Semantics in OBDA, Bruno Yun, Srdjan Vesic, Madalina Croitoru, Pierre Bisquert
+- Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders, Tengfei Ma, Cao Xiao, Jiayu Zhou, Fei Wang
+- Solving Separable Nonsmooth Problems Using Frank-Wolfe with Uniform Affine Approximations, Edward Cheung, Yuying Li
+- Human Motion Generation via Cross-Space Constrained Sampling, Zhongyue Huang, Jingwei Xu, Bingbing Ni
+- Online Continuous-Time Tensor Factorization Based on Pairwise Interactive Point Processes, Hongteng Xu, Dixin Luo, Lawrence Carin
+- Generating Thematic Chinese Poetry using Conditional Variational Autoencoders with Hybrid Decoders, Xiaopeng Yang, Xiaowen Lin, Shunda Suo, Ming Li
+- Beyond Polarity: Interpretable Financial Sentiment Analysis with Hierarchical Query-driven Attention, Ling Luo, Xiang Ao, Feiyang Pan, Jin Wang, Tong Zhao, Ningzi Yu, Qing He
+- Learning Transferable UAV for Forest Visual Perception, Lyujie Chen, Wufan Wang, Jihong Zhu
+- Distortion-aware CNNs for Spherical Images, Qiang Zhao, Chen Zhu, Feng Dai, Yike Ma, Guoqing Jin, Yongdong Zhang
+- Automatic Gating of Attributes in Deep Structure, Xiaoming Jin, Tao He, Cheng Wan, Lan Yi, Guiguang Ding, Dou Shen
+- Cascaded Low Rank and Sparse Representation on Grassmann Manifolds, Boyue Wang, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin
+- Convolutional Neural Networks based Click-Through Rate Prediction with Multiple Feature Sequences, Patrick P. K. Chan, Xian Hu, Lili Zhao, Daniel S. Yeung, Dapeng Liu, Lei Xiao
+- Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements, Canyi Lu, Jiashi Feng, Zhouchen Lin, Shuicheng Yan
+- De-biasing Covariance-Regularized Discriminant Analysis, Haoyi Xiong, Wei Cheng, Yanjie Fu, Wenqing Hu, Jiang Bian, Zhishan Guo
+- Complementary Learning of Word Embeddings, Yan Song, Shuming Shi
+- Watching a Small Portion could be as Good as Watching All: Towards Efficient Video Classification, Hehe Fan, Zhongwen Xu, Linchao Zhu, Chenggang Yan, Jianjun Ge, Yi Yang
+- Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation, Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
+- Dynamic Hypergraph Structure Learning, Zizhao Zhang, Haojie Lin, Yue Gao
+- Complementary Binary Quantization for Joint Multiple Indexing, Qiang Fu, Xu Han, Xianglong Liu, Jingkuan Song, Cheng Deng
+- MASTER: across Multiple social networks, integrate Attribute and STructure Embedding for Reconciliation, Sen Su, Li Sun, Zhongbao Zhang, Gen Li, Jielun Qu
+- Where to Prune: Using LSTM to Guide End-to-end Pruning, Jing Zhong, Guiguang Ding, Yuchen Guo, Jungong Han, Bin Wang
+- IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection, Yang Qiangpeng, Cheng Mengli, Zhou Wenmeng, Chen Yan, Qiu Minghui, Lin Wei
+- Knowledge-Embedded Representation Learning for Fine-Grained Image Recognition, Tianshui Chen, Liang Lin, Riquan Chen, Yang Wu, Xiaonan Luo
+- Deep Attribute Guided Representation for Heterogeneous Face Recognition, Decheng Liu, Nannan Wang, Chunlei Peng, Jie Li, Xinbo Gao
+- Deep Reasoning with Knowledge Graph for Social Relationship Understanding, Zhouxia Wang, Tianshui Chen, Jimmy Ren, Weihao Yu, Hui Cheng, Liang Lin
+- Cuckoo Feature Hashing: Dynamic Weight Sharing for Sparse Analytics, Jinyang Gao, Beng Chin Ooi, Yanyan Shen, Wang-Chien Lee
+- JUMP: a Jointly Predictor for User Click and Dwell Time, Zhou Tengfei, Hui Qian, Zebang Shen, Chao Zhang, Chengwei Wang, Shichen Liu, Wenwu Ou
+- Learning to Write Stylized Chinese Characters by Reading a Handful of Examples, Danyang Sun, TongZheng Ren, Chongxuan Li, Hang Su, Jun Zhu
+- Adaboost with Auto-Evaluation for Conversational Models, Juncen Li, Ping Luo, Ganbin Zhou, Fen Lin, Cheng Niu
+- Generative Adversarial Positive-Unlabelled Learning, Ming Hou, Brahim Chaib-draa, Chao Li, Qibin Zhao
+- Ceteris paribus majority for social ranking, Adrian Haret, Hossein Khani, Stefano Moretti, Meltem Ozturk
+- Boosting MCSes Enumeration, Éric Grégoire, Yacine Izza, Jean-Marie Lagniez
+- Mixed Link Networks, Wenhai Wang, Xiang Li, Tong Lu, Jian Yang
+- Query Answering in Propositional Circumscription, Mario Alviano
+- Reasoning about Consensus when Opinions Diffuse through Majority Dynamics, Vincenzo Auletta, Diodato Ferraioli, Gianluigi Greco
+- Stochastic Fractional Hamiltonian Monte Carlo, Nanyang Ye, Zhanxing Zhu
+- Semantic Locality-Aware Deformable Network for Clothing Segmentation, Wei Ji, Xi Li, Yueting Zhuang, Omar El Farouk Bourahla, Yixin Ji, Shihao Li, Jiabao Cui
+- Progressive Blockwise Knowledge Distillation for Neural Network Acceleration, Hui Wang, Hanbin Zhao, Xi Li, Xu Tan
+- Lifted Filtering via Exchangeable Decomposition, Stefan Lüdtke, Max Schröder, Sebastian Bader, Kristian Kersting, Thomas Kirste
+- Incomplete Multi-View Weak-Label Learning, Qiaoyu Tan, Guoxian Yu, Carlotta Domeniconi, Jun Wang, Zili Zhang
+- Multi-Label Co-Training, Yuying Xing, Guoxian Yu, Carlotta Domeniconi, Jun Wang, Zili Zhang
+- MEnet: A Metric Expression Network for Salient Object Segmentation, Shulian Cai, Jiabin Huang, Delu Zeng, Xinghao Ding, John Paisley
+- Parameterised Queries and Lifted Query Answering, Tanya Braun, Ralf Möller
+- Knowledge-Guided Agent-Tactic-Aware Learning for StarCraft Micromanagement, Yue Hu, Juntao Li, Xi Li, Gang Pan, Mingliang Xu
+- Improving Deep Neural Network Sparsity through Decorrelation Regularization, Xiaotian Zhu, Wengang Zhou, Houqiang Li
+- Sharing Residual Units Through Collective Tensor Factorization To Improve Deep Neural Networks, Yunpeng Chen, Xiaojie Jin, Bingyi Kang, Jiashi Feng, Shuicheng Yan
+- Galaxy Network Embedding: A Hierarchical Community Structure Preserving Approach, Lun Du, Zhicong Lu, Yun Wang, Guojie Song, Yiming Wang, Wei Chen
+- CR-GAN: Learning Complete Representations for Multi-view Generation, Yu Tian, Xi Peng, Long Zhao, Shaoting Zhang, Dimitris Metaxas
+- Approval-Based Multi-Winner Rules and Strategic Voting, Martin Lackner, Piotr Skowron
+- Think Globally, Embed Locally — Locally Linear Meta-embedding of Words, Danushka Bollegala, Kohei Hayashi, Ken-ichi Kawarabayashi
+- Online Pricing for Revenue Maximization with Unknown Time Discounting Valuations, Weichao Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen
+- Maximin Share Allocations on Cycles, Zbigniew Lonc, Miroslaw Truszczynski
+- Power-law Distribution Aware Trust Prediction, Xiao Wang, Ziwei Zhang, Jing Wang, Peng Cui, Shiqiang Yang
+- Abstraction of Agents Executing Online and their Abilities in the Situation Calculus, Bita Banihashemi, Giuseppe De Giacomo, Yves Lesperance
+- Representation Learning for Scene Graph Completion via Jointly Structural and Visual Embedding, Hai Wan, Yonghao Luo, Bo Peng, Wei-Shi Zheng
+- Fast Factorization-free Kernel Learning for Unlabeled Chunk Data Streams, Yi Wang, Nan Xue, Xin Fan, Jiebo Luo, Risheng Liu, Bin Chen, Haojie Li, Zhongxuan Luo
+- A Joint Learning Approach to Intelligent Job Interview Assessment, Dazhong Shen, Hengshu Zhu, Chen Zhu, Tong Xu, Chao Ma, Hui Xiong
+- Possibilistic ASP Base Revision by Certain Input, Laurent Garcia, Claire Lefèvre, Odile Papini, Igor Stéphan, Eric Würbel
+- Machine Learning and Constraint Programming for Relational-To-Ontology Schema Mapping, Diego De Uña, Nataliia Rümmele, Graeme Gange, Peter Schachte, Peter J. Stuckey
+- Matrix completion with Preference Ranking for Top-N Recommendation, Zengmao Wang, Yuhong Guo, Bo Du
+- On the Complexity of Chore Division, Alireza Farhadi, Mohammad Hajiaghayi
+- Distributed Primal-Dual Optimization for Non-uniformly Distributed Data, Minhao Cheng, Cho-Jui Hsieh
+- PEORL: Integrating Symbolic Planning and Hierarchical Reinforcement Learning for Robust Decision-Making, Fangkai Yang, Daoming Lyu, Bo Liu, Steven Gustafson
+- A Savage-style Utility Theory for Belief Functions, Chunlai Zhou, Biao Qin, Xiaoyong Du
+- Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination, Junjun Jiang, Yi Yu, Jinhui Hu, Suhua Tang, Jiayi Ma
+- Accelerating Convolutional Networks via Global & Dynamic Filter Pruning, Shaohui Lin, Rongrong Ji, Yuchao Li, Yongjian Wu, Feiyue Huang, Baochang Zhang
+- Text Emotion Distribution Learning via Multi-Task Convolutional Neural Network, Yuxiang Zhang, Jiamei Fu, Dongyu She, Ying Zhang, Senzhang Wang, Jufeng Yang
+- Learning Robust Gaussian Process Regression for Visual Tracking, Linyu Zheng, Ming Tang, Jinqiao Wang
+- Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling, Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang, Sen Wang, Chengqi Zhang
+- Extended Increasing Cost Tree Search for Non-Unit Cost Domains, Thayne Walker, Nathan Sturtevant, Ariel Felner
+- Optimal Bidding Strategy for Brand Advertising, Takanori Maehara, Atsuhiro Narita, Jun Baba, Takayuki Kawabata
+- Event Factuality Identification via Generative Adversarial Networks with Auxiliary Classification, Zhong Qian, Peifeng Li, Yue Zhang, Guodong Zhou, Qiaoming Zhu
+- An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems?, Yiping Song, Cheng-Te Li, Jian-Yun Nie, Ming Zhang, Dongyan Zhao, Rui Yan
+- Constructing Narrative Event Evolutionary Graph for Script Event Prediction, Zhongyang Li, Xiao Ding, Ting Liu
+- Tag-based Weakly-supervised Hashing for Image Retrieval, Ziyu Guan, Fei Xie, Wanqing Zhao, Xiaopeng Wang, Long Chen, Wei Zhao, Jinye Peng
+- Extracting Action Sequences from Texts Based on Deep Reinforcement Learning, Wenfeng Feng, Hankz Hankui Zhuo, Subbarao Kambhampati
+- PLASTIC: Prioritize Long and Short-term Information in Top-n Recommendation using Adversarial Training, Wei Zhao, Benyou Wang, Jianbo Ye, Yongqiang Gao, Min Yang, Xiaojun Chen
+- Multi-Turn Video Question Answering via Multi-Stream Hierarchical Attention Context Network, Zhou Zhao, Xinghua Jiang, Deng Cai, Jun Xiao, Xiaofei He, Shiliang Pu
+- Long-Term Human Motion Prediction by Modeling Motion Context and Enhancing Motion Dynamics, Yongyi Tang, Lin Ma, Wei Liu, Wei-Shi Zheng
+- Self-weighted Multiple Kernel Learning for Graph-based Clustering and Semi-supervised Classification, Zhao Kang, Xiao Lu, Jinfeng Yi, Zenglin Xu
+- AAR-CNNs: Auto Adaptive Regularized Convolutional Neural Networks, Yao Lu, Guangming Lu, Yuanrong Xu, Bob Zhang
+- Positive and Unlabeled Learning via Loss Decomposition and Centroid Estimation, Hong Shi, Shaojun Pan, Jian Yang, Chen Gong
+- Neural Machine Translation with Key-Value Memory-Augmented Attention, Fandong Meng, Zhaopeng Tu, Yong Cheng, Haiyang Wu, Junjie Zhai, Yuekui Yang, Di Wang
+- Show, Observe and Tell: Attribute-driven Attention Model for Image Captioning, Chen Hui, Guiguang Ding, Zijia Lin, Sicheng Zhao, Jungong Han
+- Does Tail Label Help for Large-Scale Multi-Label Learning, Tong Wei, Yu-Feng Li
+- TreeNet: Learning Sentence Representations with Unconstrained Tree Structure, Zhou Cheng, Chun Yuan, Jiancheng Li, Haiqin Yang
+- Tri-net for Semi-Supervised Deep Learning, Dong-Dong Chen, Wei Wang, Wei Gao, Zhi-Hua Zhou
+- Adaptive Graph Guided Embedding for Multi-label Annotation, Lichen Wang, Zhengming Ding, Yun Fu
+- Scalable Rule Learning via Learning Representation, Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang
+- Efficient Adaptive Online Learning via Frequent Directions, Yuanyu Wan, Nan Wei, Lijun Zhang
+- Bootstrapping Entity Alignment with Knowledge Graph Embedding, Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu
+- Deeply-Supervised CNN Model for Action Recognition with Trainable Feature Aggregation, Yang Li, Kan Li, Xinxin Wang
+- Learning Unmanned Aerial Vehicle Control for Autonomous Target Following, Siyi Li, Tianbo Liu, Chi Zhang, Dit-Yan Yeung, Shaojie Shen
+- Progressive Generative Hashing for Image Retrieval, Yuqing Ma, Yue He, Fan Ding, Sheng Hu, Jun Li, Xianglong Liu
+- Truthful Fair Division without Free Disposal, Xiaohui Bei, Guangda Huzhang, Warut Suksompong
+- Medical Concept Embedding with Time-aware Attention, Xiangrui Cai, Jinyang Gao, Kee Yuan Ngiam, Beng Chin Ooi, Ying Zhang, Xiaojie Yuan
+- Extracting Privileged Information from Untagged Corpora for Classifier Learning, Yazhou Yao, Jian Zhang, Fumin Shen, Wankou Yang, Xian-Sheng Hua, Zhenmin Tang
+- Cost-Effective Active Learning for Hierarchical Multi-Label Classification, Yi-Fan Yan, Sheng-Jun Huang
+- Minimizing Adaptive Regret with One Gradient per Iteration, Guanghui Wang, Dakuan Zhao, Lijun Zhang
+- Age Estimation Using Expectation of Label Distribution Learning, Bin-Bin Gao, Hong-Yu Zhou, Jianxin Wu, Xin Geng
+- A^3NCF: An Adaptive Aspect Attention Model for Rating Prediction, Zhiyong Cheng, Ying Ding, Xiangnan He, Lei Zhu, Xuemeng Song, Mohan Kankanhalli
+- Answering Mixed Type Questions about Daily Living Episodes, Taiki Miyanishi, Jun-ichiro Hirayama, Atsunori Kanemura, Motoaki Kawanabe
+- Bandit Online Learning on Graphs via Adaptive Optimization, Peng Yang, Peilin Zhao, Xin Gao
+- Robust Auto-Weighted Multi-View Clustering, Pengzhen Ren, Yun Xiao, Pengfei Xu, Jun Guo, Xiaojiang Chen, Xin Wang, Dingyi Fang
+- R-SVM+: Robust Learning with Privileged Information, Xue Li, Bo Du, Chang Xu, Yipeng Zhang, Lefei Zhang, Dacheng Tao
+- SSR-Net: A Compact Soft Stagewise Regression Network for Age Estimation, Tsun-Yi Yang, Yi-Hsuan Huang, Yen-Yu Lin, Pi-Cheng Hsiu, Yung-Yu Chuang
+- Co-attention CNNs for Unsupervised Object Co-segmentation, Kuang-Jui Hsu, Yen-Yu Lin, Yung-Yu Chuang
+- On Fair Price Discrimination in Multi-Unit Markets, Michele Flammini, Manuel Mauro, Matteo Tonelli
+- Code Completion with Neural Attention and Pointer Networks, Jian Li, Yue Wang, Michael R. Lyu, Irwin King
+- Causal Inference in Time Series via Supervised Learning, Yoichi Chikahara, Akinori Fujino
+- Student-t Variational Autoencoder for Robust Density Estimation, Hiroshi Takahashi, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi
+- LC-RNN: A Deep Learning Model for Traffic Speed Prediction, Zhongjian Lv, Jiajie Xu, Kai Zheng, Hongzhi Yin, Pengpeng Zhao, Xiaofang Zhou
+- A Novel Neural Network Model based on Cerebral Hemispheric Asymmetry for EEG Emotion Recognition, Yang Li, Wenming Zheng, Zhen Cui, Tong Zhang, Yuan Zong
+- Dual Conditional GANs for Face Aging and Rejuvenation, Jingkuan Song, Jingqiu Zhang, Lianli Gao, Xianglong Liu, Heng Tao Shen
+- Periodic-CRN: A Convolutional Recurrent Model for Crowd Density Prediction with Recurring Periodic Patterns, Ali Zonoozi, Jung Jae Kim, Xiaoli Li, Gao Cong
+- From Conjunctive Queries to Instance Queries in Ontology-Mediated Querying, Cristina Feier, Carsten Lutz, Frank Wolter
+- Preference orders on families of sets – when can impossibility results be avoided?, Jan Maly, Miroslaw Truszczynski, Stefan Woltran
+- Refine or Represent: Residual Networks with Explicit Channel-wise Configuration, Yanyan Shen, Jinyang Gao
+- Non-decreasing Payment Rules for Combinatorial Auctions, Vitor Bosshard, Ye Wang, Sven Seuken
+- Active Object Reconstruction Using a Guided View Planner, Xin Yang, Yuanbo Wang, Yaru Wang, Baocai Yin, Qiang Zhang, Xiaopeng Wei, Hongbo Fu
+- Patent Litigation Prediction: A Convolutional Tensor Factorization Approach, Qi Liu, Han Wu, Yuyang Ye, Hongke Zhao, Chuanren Liu, Dongfang Du
+- Markov Random Neural Fields for Face Sketch Synthesis, Mingjin Zhang, Nannan Wang, Xinbo Gao, Yunsong Li
+- A Unified Analysis of Stochastic Momentum Methods for Deep Learning, Yan Yan, Tianbao Yang, Zhe Li, Qihang Lin, Yi Yang
+- Dynamic Bayesian Logistic Matrix Factorization for Recommendation with Implicit Feedback, Yong Liu, Lifan Zhao, Guimei Liu, Xinyan Lu, Peng Gao, Xiaoli Li, Zhihui Jin
+- Towards Reading Comprehension for Long Documents, Yuanxing Zhang, Yangbin Zhang, Kaigui Bian, Xiaoming Li
+- Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting, Bing Yu, Haoteng Yin, Zhanxing Zhu
+- Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search, Tao Zhuang, Wenwu Ou, Zhirong Wang
+- Zero Shot Learning via Low-rank Embedded Semantic AutoEncoder, Yang Liu, Quanxue Gao, Jin Li, Jungong Han, Ling Shao
+- Unsupervised Disentangled Representation Learning with Analogical Relations, Zejian Li, Yongchuan Tang, Yongxing He
+- Attentional Image Retweet Modeling via Multi-Faceted Ranking Network Learning, Zhou Zhao, Lingtao Meng, Jun Xiao, Min Yang, Fei Wu, Deng Cai, Xiaofei He, Yueting Zhuang
+- Dynamic Resource Routing using Real-Time Dynamic Programming, Sebastian Schmoll, Matthias Schubert
+- Multi-Task Clustering with Model Relation Learning, Xiaotong Zhang, Xianchao Zhang, Han Liu, Jiebo Luo
+- Integrative Network Embedding via Deep Joint Reconstruction, Di Jin, Meng Ge, Liang Yang, Dongxiao He, Longbiao Wang, Weixiong Zhang
+- An Adaptive Hierarchical Compositional Model for Phrase Embedding, Bing Li, Xiaochun Yang, Bin Wang, Wei Wang, Wei Cui, Xianchao Zhang
+- Finding Communities with Hierarchical Semantics by Distinguishing General and Specialized topics, Ge Zhang, Di Jin, Jian Gao, Pengfei Jiao, Françoise Fogelman-Soulié, Xin Huang
+- ACV-tree: A New Method for Sentence Similarity Modeling, Yuquan Le, Zhi-Jie Wang, Zhe Quan, Jiawei He, Bin Yao
+- Localized Incomplete Multiple Kernel k-means, Xinzhong Zhu, Xinwang Liu, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao
+- NeuRec: On Nonlinear Transformation for Personalized Ranking, Shuai Zhang, Lina Yao, Aixin Sun, Sen Wang, Guodong Long, Manqing Dong
+- Traffic Light Scheduling, Value of Time, and Incentives, Argyrios Deligkas, Erez Karpas, Ron Lavi, Rann Smorodinsky
+- SafeNet: Scale-normalization and Anchor-based Feature Extraction Network for Person Re-identification, Kun Yuan, Qian Zhang, Chang Huang, Shiming Xiang, Chunhong Pan
+- Chinese Poetry Generation with a Working Memory Model, Xiaoyuan Yi, Maosong Sun, Ruoyu Li, Zonghan Yang
+- A Normalized Convolutional Neural Network for Guided Sparse Depth Upsampling, Jiashen Hua, Xiaojin Gong
+- Pseudo-Boolean Constraints from a Knowledge Representation Perspective, Daniel Le Berre, Pierre Marquis, Stefan Mengel, Romain Wallon
+- Expectation Optimization with Probabilistic Guarantees in POMDPs with Discounted-Sum Objectives, Krishnendu Chatterjee, Adrián Elgyütt, Petr Novotný, Owen Rouillé
+- Reinforcing Coherence for Sequence to Sequence Model in Dialogue Generation, Hainan Zhang, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng
+- Scalable Multiplex Network Embedding, Hongming Zhang, Liwei Qiu, Lingling Yi, Yangqiu Song
+- Efficient Pruning of Large Knowledge Graphs, Stefano Faralli, Irene Finocchi, Simone Paolo Ponzetto, Paola Velardi
+- Approximating Word Ranking and Negative Sampling for Word Embedding, Guibing Guo, Shichang Ouyang, Fajie Yuan, Xingwei Wang
+- Strategyproof and Fair Matching Mechanism for Union of Symmetric M-convex Constraints, Yuzhe Zhang, Kentaro Yahiro, Nathanael Barrot, Makoto Yokoo
+- DeepTravel: a Neural Network Based Travel Time Estimation Model with Auxiliary Supervision, Hanyuan Zhang, Hao Wu, Weiwei Sun, Baihua Zheng
+- Brain-inspired Balanced Tuning for Spiking Neural Networks, Tielin Zhang, Yi Zeng, Dongcheng Zhao, Bo Xu
+- Two Sides of the Same Coin: Belief Revision and Enforcing Arguments, Adrian Haret, Johannes P. Wallner, Stefan Woltran
+- Automata-Theoretic Foundations of FOND Planning for LTLf and LDLf Goals, Giuseppe De Giacomo, Sasha Rubin
+- Embracing Change by Abstraction Materialization Maintenance for Large ABoxes, Markus Brenner, Birte Glimm
+- Uncertainty Sampling for Action Recognition via Maximizing Expected Average Precision, Hanmo Wang, Xiaojun Chang, Lei Shi, Yi Yang, Yi-Dong Shen
+- Optimal Cruiser-Drone Traffic Enforcement Under Energy Limitation, Ariel Rosenfeld, Oleg Maximov, Sarit Kraus
+- A General Approach to Running Time Analysis of Multi-objective Evolutionary Algorithms, Chao Bian, Chao Qian, Ke Tang
+- Unsupervised Deep Hashing via Binary Latent Factor Models for Large-scale Cross-modal Retrieval, Gengshen Wu, Zijia Lin, Jungong Han, Li Liu, Guiguang Ding, Baochang Zhang, Jialie Shen
+- DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation, Weiyu Cheng, Yanyan Shen, Yanmin Zhu, Linpeng Huang
+- Hierarchical Electricity Time Series Forecasting for Integrating Consumption Patterns Analysis and Aggregation Consistency, Yue Pang, Bo Yao, Xiangdong Zhou, Yong Zhang, Yiming Xu, Zijing Tan
+- Mixture of GANs for Clustering, Yang Yu, Wen-Ji Zhou
+- An Exact Algorithm for Maximum k-Plexes in Massive Graphs, Jian Gao, Jiejiang Chen, Minghao Yin, Rong Chen, Yiyuan Wang
+- Regularizing Deep Neural Networks with an Ensemble-based Decorrelation Method, Shuqin Gu, Yuexian Hou, Lipeng Zhang, Yazhou Zhang
+- Classification Transfer for Qualitative Reasoning Problems, Manuel Bodirsky, Peter Jonsson, Barnaby Martin, Antoine Mottet
+- Collaborative Learning for Weakly Supervised Object Detection, Jiajie Wang, Jiangchao Yao, Ya Zhang, Rui Zhang
+- Robust Feature Selection on Incomplete Data, Wei Zheng, Xiaofeng Zhu, Yonghua Zhu, Shichao Zhang
+- An Information Theory based Approach to Multisource Clustering, Pierre-Alexandre Murena, Jérémie Sublime, Basarab Matei, Antoine Cornuéjols
+- DMC: A Distributed Model Counter, Jean-Marie Lagniez, Pierre Marquis, Nicolas Szczepanski
+- Collaborative and Attentive Learning for Personalized Image Aesthetic Assessment, Guolong Wang, Junchi Yan, Zheng Qin
+- Adversarially Regularized Graph Autoencoder for Graph Embedding, Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang
+- Semi-Supervised Optimal Margin Distribution Machines, Teng Zhang, Zhi-Hua Zhou
+- Towards Better Representation Learning for Personalized News Recommendation: a Multi-Channel Deep Fusion Approach, Jianxun Lian, Fuzheng Zhang, Xing Xie, Guangzhong Sun
+- Multiwinner Voting with Fairness Constraints, Elisa Celis, Lingxiao Huang, Nisheeth Vishnoi
+- Scalable Initial State Interdiction for Factored MDPs, Swetasudha panda, Yevgeniy Vorobeychik
+- When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach, Ding Liu, Bihan Wen, Xianming Liu, Zhangyang Wang, Thomas Huang
+- A fast algorithm for generalized arc consistency of the alldifferent constraint, Xizhe Zhang, Qian Li, Weixiong Zhang
+- Transformable Convolutional Neural Network for Text Classification, Liqiang Xiao, Honglun Zhang, Wenqing Chen, Yongkun Wang, Yaohui Jin
+- Reliable Multi-class Classification based on Pairwise Epistemic and Aleatoric Uncertainty, Vu-Linh Nguyen, Sébastien Destercke, Marie-Hélène Masson, Eyke Hüllermeier
+- Deep Multi-View Concept Learning, Cai Xu, Ziyu Guan, Wei Zhao, Yunfei Niu, Quan Wang, Zhiheng Wang
+- Optimization based Layer-wise Magnitude-based Pruning for DNN Compression, Guiying Li, Chao Qian, Chunhui Jiang, Xiaofen Lu, Ke Tang
+- Learning Conceptual Space Representations of Interrelated Concepts, Zied Bouraoui, Steven Schockaert
+- Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning, Guoxian Dai, Jin Xie, Yi Fang
+- Verifying Emergence of Bounded Time Properties in Probabilistic Swarm Systems, Alessio Lomuscio, Edoardo Pirovano
+- Small undecidable problems in epistemic planning, Sébastien Lê Cong, Sophie Pinchinat, François Schwarzentruber
+- Cross-Modality Person Re-Identification with Generative Adversarial Training, Pingyang Dai, Rongrong Ji, Haibin Wang, Qiong Wu, Yuyu Huang
+- Algorithms for the Nearest Assignment Problem, Sara Rouhani, Tahrima Rahman, Vibhav Gogate
+- Densely Connected CNN with Multi-scale Feature Attention for Text Classification, Shiyao Wang, Minlie Huang, Zhidong Deng
+- Towards Enabling Binary Decomposition for Partial Label Learning, Xuan Wu, Min-Ling Zhang
+- Sequential Recommender System based on Hierarchical Attention Networks, Haochao Ying, Fuzhen Zhuang, Fuzheng Zhang, Yanchi Liu, Guandong Xu, Xing Xie, Hui Xiong, Jian Wu
+- Horn-Rewritability vs PTime Query Evaluation in Ontology-Mediated Querying, Andre Hernich, Carsten Lutz, Fabio Papacchini, Frank Wolter
+- On the Satisfiability Threshold of Random Community-Structured SAT, Dina Barak-Pelleg, Daniel Berend
+- Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding, Lun Du, Yun Wang, Guojie Song, Zhicong Lu, Junshan Wang
+- Approximation Guarantees of Stochastic Greedy Algorithms for Subset Selection, Chao Qian, Yang Yu, Ke Tang
+- Inferring Temporal Knowledge for Near-Periodic Recurrent Events, Dinesh Raghu, Surag Nair, Mausam .
+- A Social Interaction Activity based Time-Varying User Vectorization Method for Online Social Networks, Tianyi Hao, Longbo Huang
+- Cost-aware Cascading Bandits, Ruida Zhou, Chao Gan, Jing Yang, Cong Shen
+- Online Kernel Selection via Incremental Sketched Kernel Alignment, Xiao Zhang, Shizhong Liao
+- Best-Case and Worst-Case Behavior of Greedy Best-First Search, Manuel Heusner, Thomas Keller, Malte Helmert
+- Argumentation-Based Recommendations: Fantastic Explanations and How to Find Them, Antonio Rago, Oana Cocarascu, Francesca Toni
+- Ex-post IR dynamic auctions with cost-per-action payments, Weiran Shen, Zihe Wang, Song Zuo
+- Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks, Xian Teng, Muheng Yan, Ali Mert Ertugrul, Yu-Ru Lin
+- Belief Update in the Horn Fragment, Nadia Creignou, Adrian Haret, Odile Papini, Stefan Woltran
+- Meta-Level Control of Anytime Algorithms with Online Performance Prediction, Justin Svegliato, Kyle Hollins Wray, Shlomo Zilberstein
+- Probabilistic Verification for Obviously Strategyproof Mechanisms, Diodato Ferraioli, Carmine Ventre
+- Multi-Agent Path Finding with Deadlines, Hang Ma, Glenn Wagner, Ariel Felner, Jiaoyang Li, T. K. Satish Kumar, Sven Koenig
+- On the convergence properties of a $K$-step averaging stochastic gradient descent algorithm for nonconvex optimization, Fan Zhou, Guojing Cong
+- Label-Sensitive Task Grouping by Bayesian Nonparametric Approach for Multi-Task Multi-Label Learning, Xiao Zhang, Wenzhong Li, Vu Nguyen, Fuzhen Zhuang, Hui Xiong, Sanglu Lu
+- Ranking Preserving Nonnegative Matrix Factorization, Jing Wang, Feng Tian, Weiwei Liu, Xiao Wang, Wenjie Zhang, Kenji Yamanishi
+- Curriculum Adversarial Training, Qi-Zhi Cai, Chang Liu, Dawn Song
+- Sampling for Approximate Bipartite Network Projection, Nesreen Ahmed, Nick Duffield, Liangzhen Xia
+- Service Exchange Problem, Julien Lesca, Taiki Todo
+- INITIATOR: Noise-contrastive Estimation for Marked Temporal Point Process, Ruocheng Guo, Jundong Li, Huan Liu
+- Equilibrium Behavior in Competing Dynamic Matching Markets, Zhuoshu Li, Neal Gupta, Sanmay Das, John Dickerson
+- Computational Social Choice Meets Databases, Benny Kimelfeld, Phokion Kolaitis, Julia Stoyanovich
+- The Promise and Perils of Myopia in Dynamic Pricing With Censored Information, Meenal Chhabra, Sanmay Das, Ilya Ryzhov
+- Ensemble Neural Relation Extraction with Adaptive Boosting, Dongdong Yang, Senzhang Wang, Zhoujun Li
+- Enhancing Existential Rules by Closed-World Variables, Giovanni Amendola, Nicola Leone, Marco Manna, Pierfrancesco Veltri
+- Geometric Enclosing Networks, Trung Le, Hung Vu, Tu Dinh Nguyen, Dinh Phung
+- An Efficient Algorithm To Compute Distance Between Lexicographic Preference Trees, Minyi Li, Borhan Kazimipour
+- Binary Coding based Label Distribution Learning, Ke Wang, Xin Geng
+- Adversarial Active Learning for Sequences Labeling and Generation, Yue Deng, KaWai Chen, Yilin Shen, Hongxia Jin
+- Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid, Yaodong Yang, Jianye Hao, Mingyang Sun, Zan Wang, Changjie Fan, Goran Strbac
+- On Q-learning Convergence for Non-Markov Decision Processes, Sultan Javed Majeed, Marcus Hutter
+- Achieving Non-Discrimination in Prediction, Lu Zhang, Yongkai Wu, Xintao Wu
+- What game are we playing? End-to-end learning in normal and extensive form games, Chun Kai Ling, Fei Fang, J. Zico Kolter
+- Bayesian Active Edge Evaluation on Expensive Graphs, Sanjiban Choudhury, Siddhartha Srinivasa, Sebastian Scherer
+- Adversarial Constraint Learning for Structured Prediction, Hongyu Ren, Russell Stewart, Jiaming Song, Volodymyr Kuleshov, Stefano Ermon
+- EZLearn: Exploiting Organic Supervision in Automated Data Annotation, Maxim Grechkin, Hoifung Poon, Bill Howe
+- Deep Reinforcement Learning in Ice Hockey for Context-Aware Player Evaluation, Guiliang Liu, Oliver Schulte
+- Incrementally Grounding Expressions for Spatial Relations between Objects, Tiago Mota, Mohan Sridharan
+- 3D-PhysNet: Learning the Intuitive Physics of Non-Rigid Object Deformations, Zhihua Wang, Stefano Rosa, Bo Yang, Sen Wang, Niki Trigoni, Andrew Markham
+- Iterative Metric Learning for Imbalance Data Classification, Nan Wang, Xibin Zhao, Yu Jiang, Yue Gao
+- Adaptive Collaborative Similarity Learning for Unsupervised Multi-view Feature Selection, Xiao Dong, Lei Zhu, Xuemeng Song, Jingjing Li, Zhiyong Cheng
+- Synthesizing Pattern Programs from Examples, Sunbeom So, Hakjoo Oh
+- A Novel Strategy for Active Task Assignment in Crowd Labeling, Zehong Hu, Jie Zhang
+- CSNN: An Augmented Spiking based Framework with Perceptron-Inception, Qi Xu, Yu Qi, Hang Yu, Jiangrong Shen, Huajin Tang, Gang Pan
+- Counterfactual Resimulation for Causal Analysis of Rule-Based Models, Jonathan Laurent, Jean Yang, Walter Fontana
+- Multinomial Logit Bandit with Linear Utility Functions, Mingdong Ou, Nan Li, Shenghuo Zhu, Rong Jin
+- Joint Learning Embeddings for Chinese Words and their Components via Ladder Structured Networks, Yan Song, Shuming Shi, Jing Li
+- Learning Deep Unsupervised Binary Codes for Image Retrieval, Chen Junjie, William K. Cheung, Anran Wang
+- Instance weighting with applications to cross-domain text classification via trading off sample selection bias and variance, Rui Xia, Zhenchun Pan, Feng Xu
+- Simultaneous Clustering and Ranking from Pairwise Comparisons, Jiyi Li, Yukino Baba, Hisashi Kashima
+- CoupledCF: Learning Explicit and Implicit User-item Couplings in Recommendation for Deep Collaborative Filtering, Quangui Zhang, Longbing Cao, Chengzhang Zhu, Zhiqiang Li, Jinguang Sun
+- LSTM Networks for Online Cross-Network Recommendations, Dilruk Perera, Roger Zimmermann
+- Outer Product-based Neural Collaborative Filtering, Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua
+- Implicit Non-linear Similarity Scoring for Recognizing Unseen Classes, Yuchen Guo, Guiguang Ding, Jungong Han, Sicheng Zhao, Bin Wang
+- Automatic Opioid User Detection from Twitter: Transductive Ensemble Built on Different Meta-graph Based Similarities over Heterogeneous Information Network, Yujie Fan, Yiming Zhang, Yanfang Ye, Xin Li
+- Label Enhancement for Label Distribution Learning, Ning Xu, An Tao, Xin Geng
+- Generative Warfare Nets: Ensemble via Adversaries and Collaborators, Honglun Zhang, Liqiang Xiao, Wenqing Chen, Yongkun Wang, Yaohui Jin
+- Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss, Qi Dou, Cheng Ouyang, Cheng Chen, Hao Chen, Pheng-Ann Heng
+- Jointly Learning Network Connections and Link Weights in Spiking Neural Networks, Yu Qi, Jiangrong Shen, Yueming Wang, Huajin Tang, Hang Yu, Zhaohui Wu, Gang Pan
+- Task-Guided and Semantic-Aware Ranking for Academic Author-Paper Correlation Inference, Chuxu Zhang, Lu Yu, Xiangliang Zhang, Nitesh Chawla
+- Label Embedding Based on Multi-Scale Locality Preservation, Cheng-Lun Peng, An Tao, Xin Geng
+- Generalization Bounds for Regularized Pairwise Learning, Yunwen Lei, Shao-Bo Lin, Ke Tang
+- Adversarial Attribute-Image Person Re-identification, Zhou Yin, Wei-Shi Zheng, Ancong Wu, Hong-Xing Yu, Hai Wan, Xiaowei Guo, Feiyue Huang, Jianhuang Lai
+- Dynamic Fair Division Problem with General Valuations, Bo Li, Wenyang Li, Yingkai Li
+- Semi-Supervised Multi-Modal Learning with Incomplete Modalities, Yang Yang, De-Chuan Zhan, Xiang-Rong Sheng, Yuan Jiang
+- Enhanced-alignment Measure for Binary Foreground Map Evaluation, Deng-Ping Fan, Cheng Gong, Yang Cao, Bo Ren, Ming-Ming Cheng, Ali Borji
+- Online Deep Learning: Learning Deep Neural Networks on the Fly, Doyen Sahoo, Quang Pham, Jing Lu, Steven C. H. Hoi
+- Feature Integration with Adaptive Importance Maps for Visual Tracking, Aishi Li, Ming Yang, Wanqi Yang
+- Predicting the Spatio-Temporal Evolution of Chronic Diseases in Population with Human Mobility Data, Yingzi Wang, Xiao Zhou, Anastasios Noulas, Cecilia Mascolo, Xing Xie, Enhong Chen
+- Convolutional Memory Blocks for Depth Data Representation Learning, Keze Wang, Liang Lin, Chuangjie Ren, Wei Zhang, Wenxiu Sun
+- SDMCH: Supervised Discrete Manifold-Embedded Cross-Modal Hashing, Xin Luo, Xiao-Ya Yin, Liqiang Nie, Xuemeng Song, Yongxin Wang, Xin-shun Xu
+- Towards Generalized and Efficient Metric Learning on Riemannian Manifold, Pengfei Zhu, Hao Cheng, Qinghua Hu, Qilong Wang, Changqing Zhang
+- A Multi-task Learning Approach for Image Captioning, Wei Zhao, Benyou Wang, Jianbo Ye, Min Yang, Zhou Zhao, Ruotian Luo, Yu Qiao
+- Aspect Term Extraction with History Attention and Selective Transformation, Xin Li, Lidong Bing, Piji Li, Wai Lam, Zhimou Yang
+- Teaching Machines to Ask Questions, Kaichun Yao, Libo Zhang, Tiejian Luo, Lili Tao, Yanjun Wu
+- Beyond Similar and Dissimilar Relations : A Kernel Regression Formulation for Metric Learning, Pengfei Zhu, Ren Qi, Qinghua Hu, Qilong Wang, Changqing Zhang, Liu Yang
+- Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism, Chongyang Tao, Shen Gao, Mingyue Shang, Wei Wu, Dongyan Zhao, Rui Yan
+- On Whom Should I Perform this Lab Test Next? An Active Feature Elicitation Approach, Sriraam Natarajan, Srijita Das, Nandini Ramanan, Gautam Kunapuli, Predrag Radivojac
+- Fast Vehicle Identification in Surveillance via Ranked Semantic Sampling Based Embedding, Feng Zheng, Xin Miao, Heng Huang
+- Interpretable Drug Target Prediction Using Deep Neural Representation, Yingkai Gao, Achille Fokoue, Heng Luo, Arun Iyengar, Sanjoy Dey, Ping Zhang
+- Personality-Aware Personalized Emotion Recognition from Physiological Signals, Sicheng Zhao, Guiguang Ding, Jungong Han, Yue Gao
+- Multi-modality Sensor Data Classification with Selective Attention, Xiang Zhang, Lina Yao, Chaoran Huang, Sen Wang, Mingkui Tan, Guodong Long, Can Wang
+- Three-Head Neural Network Architecture for Monte Carlo Tree Search, Chao Gao, Martin Mueller, Ryan Hayward
+- Unsupervised Audio Source Separation via Spectrum Energy Preserved Wasserstein Learning, Ning Zhang, Junchi Yan, Yucheng Zhou
+- Estimation with Incomplete Data: The Linear Case, Karthika Mohan, Felix Thoemmes, Judea Pearl
+- Enhancing Semantic Representations of Bilingual Word Embeddings with Syntactic Dependencies, Linli Xu, Wenjun Ouyang, Xiaoying Ren, Yang Wang, Liang Jiang
+- Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains, Yangchen Pan, Muhammad Zaheer, Adam White, Andrew Patterson, Martha White
+- Time-evolving Text Classification with Deep Neural Networks, Yu He, Jianxin Li, Yangqiu Song, Mutian He, Hao Peng
+- Doubly Aligned Incomplete Multi-view Clustering, Menglei Hu, Songcan Chen
+- Energy-efficient Amortized Inference with Cascaded Deep Classifiers, Jiaqi Guan, Yang Liu, Qiang Liu, Jian Peng
+- MUSCAT: Multi-Scale Spatio-Temporal Learning with Application to Climate Modeling, Jianpeng Xu, Xi Liu, Tyler Wilson, Pang-Ning Tan, Pouyan Hatami, Lifeng Luo
+- Layered Optical Flow Estimation Using a Deep Neural Network with a Soft Mask, Xi Zhang, Di Ma, Xu Ouyang, Shanshan Jiang, Lin Gan, Gady Agam
+- Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer, Xiaocheng Feng, Xiachong Feng, Bing Qin, Zhangyin Feng, Ting Liu
+- Topic-to-Essay Generation with Neural Networks, Xiaocheng Feng, Ming Liu, Jiahao Liu, Bing Qin, Yibo Sun, Ting Liu
+- Neural Networks Incorporating Unlabeled and Partially-labeled Data for Cross-domain Chinese Word Segmentation, Lujun Zhao, Qi Zhang, Peng Wang, Xiaoyu Liu
+- Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error, Chunhui Jiang, Guiying Li, Chao Qian, Ke Tang
+- GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning, Qiao Zhang, Cong Wang, Hongyi Wu, Chunsheng Xin, Tran V. Phuong
+- Deep learning based multi-modal addressee recognition in visual scenes with utterances, Thao Le Minh, Nobuyuki Shimizu, Takashi Miyazaki, Koichi Shinoda
+- Faster Training Algorithms for Structured Sparsity-Inducing Norm, Bin Gu, Xingwang Ju, Xiang Li, Guansheng Zheng
+- Learning to Explain Ambiguous Headlines of Online News, Tianyu Liu, Wei Wei, Xiaojun Wan
+- A Fast and Accurate Method for Estimating People Flow from Spatiotemporal Population Data, Yasunori Akagi, Takuya Nishimura, Takeshi Kurashima, Hiroyuki Toda
+- Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification, Sungmin Rhee, Seokjun Seo, Sun Kim
+- Discrete Factorization Machines for Fast Feature-based Recommendation, Han Liu, Xiangnan He, Fuli Feng, Liqiang Nie, Rui Liu, Hanwang Zhang
+- Scheduled Policy Optimization for Natural Language Communication with Intelligent Agents, Wenhan Xiong, Xiaoxiao Guo, Mo Yu, Shiyu Chang, Bowen Zhou, William Yang Wang
+- A Non-Parametric Generative Model for Human Trajectories, Kun Ouyang, Reza Shokri, David Rosenblum, Wenzhuo Yang
+- Coarse-to-fine Image Co-segmentation with Intra and Inter Rank Constraints, Lianli Gao, Jingkuan Song, Dongxiang Zhang, Heng Tao Shen
+- Phrase Table as Recommendation Memory for Neural Machine Translation, Yang Zhao, Yining Wang, Jiajun Zhang, Chengqing Zong
+- Pairwise Liquid Democracy, Markus Brill, Nimrod Talmon
+- From Pixels to Objects: Cubic Visual Attention for Visual Question Answering, Jingkuan Song, Pengpeng Zeng, Lianli Gao, Heng Tao Shen
+- A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization, Li Wang, Junlin Yao, Yunzhe Tao, Li Zhong, Wei Liu, Qiang Du
+- Opinion Diffusion and Campaigning on Society Graphs, Piotr Faliszewski, Rica Gonen, Martin Koutecký, Nimrod Talmon
+- Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation, Chao Li, Qiaoyong Zhong, Di Xie, Shiliang Pu
+- Accelerated Asynchronous Greedy Coordinate Descent Algorithm for SVMs, Bin Gu, Yingying Shan, Xiang Geng, Guansheng Zheng
+- Multiwinner Voting with Restricted Admissible Sets: Complexity and Strategyproofness, Yongjie Yang, Jianxin Wang
+- Exact Algorithms and Complexity of Kidney Exchange, Mingyu Xiao, Xuanbei Wang
+- Hermitian Co-Attention Networks for Text Matching in Asymmetrical Domains, Yi Tay, Anh Tuan Luu, Siu Cheung Hui
+- Point Set Registration for Unsupervised Bilingual Lexicon Induction, Hailong Cao, Tiejun Zhao
+- Fact Checking via Evidence Patterns, Valeria Fionda, Giuseppe Pirrò
+- Self-Adaptive Double Bootstrapped DDPG, Zhuobin Zheng, Chun Yuan, Zhihui Lin, Yangyang Cheng, Hanghao Wu
+- Probabilistic bipolar abstract argumentation frameworks: complexity results, Bettina Fazzinga, Sergio Flesca, Filippo Furfaro
+- Multi-agent Epistemic Planning with Common Knowledge, Qiang Liu, Yongmei Liu
+- Unifying and Merging Deep Neural Networks in Inference Stage, Yi-Min Chou, Yi-Ming Chan, Jia-Hong Lee, Chih-Yi Chiu, Chu-Song Chen
+- Deep Discrete Prototype Multilabel Learning, Xiaobo Shen, Weiwei Liu, Yong Luo, Yew-Soon Ong, Ivor Tsang
+- Domain Adaptation via Tree Kernel Based Maximum Mean Discrepancy for User Consumption Intention Identification, Xiao Ding, Bibo Cai, Ting Liu, Qiankun Shi
+- Modeling Contemporaneous Basket Sequences with Twin Networks for Next-Item Recommendation, Duc-Trong Le, Hady W. Lauw, Yuan Fang
+- Commonsense Knowledge Aware Conversation Generation with Graph Attention, Hao Zhou, Tom Young, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
+- From the Periphery to the Core: Information Brokerage in an Evolving Network, Bo Yan, Yiping Liu, Jiamou Liu, Yijin Cai, Hongyi Su, Hong Zheng
+- Virtual-to-Real: Learning to Control in Visual Semantic Segmentation, Zhang-Wei Hong, Chen Yu-Ming, Hsuan-Kung Yang, Shih-Yang Su, Tzu-Yun Shann, Yi-Hsiang Chang, Brian Hsi-Lin Ho, Chih-Chieh Tu, Tsu-Ching Hsiao, Sih-Pin Lai, Hsin-Wei Hsiao, Yueh-Chuan Chang, Chun-Yi Lee
+- Model Checking Probabilistic Epistemic Logic for Probabilistic Multiagent Systems, Chen Fu, Andrea Turrini, Xiaowei Huang, Lei Song, Yuan Feng, Lijun Zhang
+- Neural Networks for Predicting Algorithm Runtime Distributions, Katharina Eggensperger, Marius Lindauer, Frank Hutter
+- Online Heterogeneous Transfer Metric Learning, Yong Luo, Tongliang Liu, Yonggang Wen, Dacheng Tao
+- Listen, Think and Listen Again: Capturing Top-down Auditory Attention for Speaker-independent Speech Separation, Jing Shi, Jiaming Xu, Guangcan Liu, Bo Xu
+- A Bayesian Latent Variable Model of User Preferences with Item Context, Aghiles Salah, Hady W. Lauw
+- Sequence Selection by Pareto Optimization, Chao Qian, Chao Feng, Ke Tang
+- Distance Metric Facilitated Transportation between Heterogeneous Domains, Han-Jia Ye, Xiang-Rong Sheng, De-Chuan Zhan, Peng He
+- Game Description Language and Dynamic Epistemic Logic Compared, Thorsten Engesser, Robert Mattmüller, Bernhard Nebel, Michael Thielscher
+- A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification, Shuming Ma, Xu Sun, Junyang Lin, Xuancheng Ren
+- Active Recurrence of Lighting Condition for Fine-Grained Change Detection, Qian Zhang, Wei Feng, Liang Wan, Fei-Peng Tian, Ping Tian
+- Beyond the Click-Through Rate: Web Link Selection with Multi-level Feedback, Kun Chen, Kechao Cai, Longbo Huang, John C.S. Lui
+- Toward Diverse Text Generation with Inverse Reinforcement Learning, Zhan Shi, Xinchi Chen, Xipeng Qiu, Xuanjing Huang
+- Mitigating the Effect of Out-of-Vocabulary Entity Pairs in Matrix Factorization for KB Inference, Prachi Jain, Shikhar Murty, Mausam ., Soumen Chakrabarti
+- Symbolic Synthesis of Fault-Tolerance Ratios in Parameterised Multi-Agent Systems, Panagiotis Kouvaros, Alessio Lomuscio, Edoardo Pirovano
+- Stochastic Anytime Search for Bounding Marginal MAP, Radu Marinescu, Rina Dechter, Alexander Ihler
+- Fine-grained Image Classification by Visual-Semantic Embedding, Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, Huan Gao
+- Spectral feature scaling method for supervised dimensionality reduction, Momo Matsuda, Keiichi Morikuni, Tetsuya Sakurai
+- Double Auctions in Markets for Multiple Kinds of Goods, Erel Segal-Halevi, Avinatan Hassidim, Yonatan Aumann
+- Synthesis of Controllable Nash Equilibria in Games with Quantitative Objectives, Orna Kupferman, Giuseppe Perelli, Shaull Almagor
+- When Rigging a Tournament, Let Greediness Blind You, Sushmita Gupta, Sanjukta Roy, Saket Saurabh, Meirav Zehavi
+- Deterministic Binary Filters for Convolutional Neural Networks, Vincent W.-S. Tseng, Sourav Bhattacharya, Javier Fernandez Marques, Milad Alizadeh, Catherine Tong, Nicholas D. Lane
+- Socially Motivated Partial Cooperation in Multi-agent Local Search, Tal Ze’evi, Roie Zivan, Omer Lev
+- A Framework for Constraint Based Local Search using Essence, Özgür Akgün, Saad Attieh, Ian P Gent, Christopher Jefferson, Ian Miguel, Peter Nightingale, András Z Salamon, Patrick Spracklen, James Wetter
+- Reasoning about Betweenness and RCC8 Constraints in Qualitative Conceptual Spaces, Steven Schockaert, Sanjiang Li
+- Reverse Engineering Queries in Ontology-Enriched Systems: The Case of Expressive Horn Description Logic Ontologies, Víctor Gutiérrez-Basulto, Jean Christoph Jung, Leif Sabellek
+- Extracting Job Title Hierarchy from Career Trajectories: A Bayesian Perspective, Huang Xu, Zhiwen Yu, Bin Guo, Mingfei Teng, Hui Xiong
+- An Empirical Study of Knowledge Tradeoffs in Case-Based Reasoning, Devi Ganesan, Sutanu Chakraborti
+- High-dimensional Similarity Learning via Dual-sparse Random Projection, Dezhong Yao, Peilin Zhao, Tuan-Anh Nguyen Pham, Gao Cong
+- Learning Tag Dependencies for Sequence Tagging, Yuan Zhang, Hongshen Chen, Yihong Zhao, Qun Liu, Dawei Yin
+- Aspect-Level Deep Collaborative Filtering via Heterogeneous Information Networks, Xiaotian Han, Chuan Shi, Senzhang Wang, Philip Yu, Song Li
+- Leveraging Qualitative Reasoning to Improve SFL, Alexandre Perez, Rui Abreu
+- Effect-Abstraction Based Relaxation for Linear Numeric Planning, Dongxu Li, Enrico Scala, Patrik Haslum, Sergiy Bogomolov
+- Multi-task Layout Analysis for Historical Handwritten Documents Using Fully Convolutional Networks, Yue Xu, Fei Yin, Zhaoxiang Zhang, Cheng-Lin Liu
+- Hybrid Listwise-Pairwise Recommendation Algorithm from Implicit Feedback, Yunzhou Zhang, Runlong Yu, Ke Tang
+- Multi-Level Policy and Reward Reinforcement Learning for Image Captioning, Anan Liu, Ning Xu, Hanwang Zhang, Weizhi Nie, Yuting Su, Yongdong Zhang
+- An Appearance-and-Structure Fusion Network for Object Viewpoint Estimation, Yueying Kao, Weiming Li, Zairan Wang, Dongqing Zou, Ran He, Qiang Wang, Minsu Ahn, Sunghoon Hong
+- Neural Framework for Joint Evolution Modeling of User Feedback and Social Links in Dynamic Social Networks, Peizhi Wu, Yi Tu, Xiaojie Yuan, Adam Jatowt, Zhenglu Yang
+- Leadership in Singleton Congestion Games, Alberto Marchesi, Stefano Coniglio, Nicola Gatti
+- Path Evaluation and Centralities in Weighted Graphs – An Axiomatic Approach, Jadwiga Sosnowska, Oskar Skibski
+- Axiomatization of the PageRank Centrality, Tomasz Wąs, Oskar Skibski
+- Discrete Network Embedding, Xiaobo Shen, Shirui Pan, Weiwei Liu, Yew-Soon Ong, Quan-Sen Sun
+- Do not Lose the Details: Reinforced Representation Learning for High Performance Visual Tracking, Qiang Wang, Mengdan Zhang, Junliang Xing, Jin Gao, Weiming Hu, Steve Maybank
+- HCR-Net: A hybrid of classification and regression network for object pose estimation, Zairan Wang, Weiming Li, Yueying Kao, Dongqing Zou, Qiang Wang, Minsu Ahn, Sunghoon Hong
+- Cross-Domain 3D Model Retrieval via Visual Domain Adaption, Anan Liu, Shu Xiang, Wenhui Li, Weizhi Nie, Yuting Su
+- Computing the Schulze Method for Large-Scale Preference Data Sets, Theresa Csar, Martin Lackner, Reinhard Pichler
+- Deontic Sensors, Julian Padget, Marina De Vos, Charlie Ann Page
+- Hierarchical Graph Structure Learning for Multi-View 3D Model Retrieval, Yuting Su, Wenhui Li, Anan Liu, Weizhi Nie
+- Novel Algorithms for Abstract Dialectical Frameworks based on Complexity Analysis of Subclasses and SAT Solving, Thomas Linsbichler, Marco Maratea, Andreas Niskanen, Johannes P. Wallner, Stefan Woltran
+- A Property Testing Framework for the Theoretical Expressivity of Graph Kernels, Nils M. Kriege, Christopher Morris, Anja Rey, Christian Sohler
+- Payoff Control in the Iterated Prisoner’s Dilemma, Dong Hao, Kai Li, Tao Zhou
+- Winning a Tournament by Any Means Necessary, Sushmita Gupta, Sanjukta Roy, Saket Saurabh, Meirav Zehavi
+- Functional Partitioning of Ontologies for Natural Language Query Completion in Question Answering Systems, Jaydeep Sen, Ashish Mittal, Diptikalyan Saha, Karthik Sankaranarayanan
+- A Unified Approach for Multi-step Temporal-Difference Learning with Eligibility Traces in Reinforcement Learning, Long Yang, Minhao Shi, Qian Zheng, Wenjia Meng, Gang Pan
+- Robust Norm Emergence by Revealing and Reasoning about Context: Socially Intelligent Agents for Enhancing Privacy, Nirav Ajmeri, Hui Guo, Pradeep K. Murukannaiah, Munindar Singh
+- One “Ruler” for All Languages: Multi-Lingual Dialogue Evaluation with Adversarial Multi-Task Learning, Xiaowei Tong, Zhenxin Fu, Mingyue Shang, Dongyan Zhao, Rui Yan
+- Customer Sharing in Economic Networks with Costs, Bin Li, Dong Hao, Dengji Zhao, Tao Zhou
+- Finite Model Reasoning in Hybrid Classes of Existential Rules, Georg Gottlob, Marco Manna, Andreas Pieris
+- Image-level to Pixel-wise Labeling: From Theory to Practice, Tiezhu Sun, Wei Zhang, Zhijie Wang, Lin Ma, Zequn Jie
+- Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks, Feiwu Yu, Xinxiao Wu, Yuchao Sun, Lixin Duan
+- Conflict Directed Clause Learning for Maximum Weighted Clique Problem, Emmanuel Hebrard, George Katsirelos
+- Transition-based Adversarial Network for Cross-lingual Aspect Extraction, Wenya Wang, Sinno Jialin Pan
+- Algorithms or Actions? A Study in Large-Scale Reinforcement Learning, Anderson Rocha Tavares, Sivasubramanian Anbalagan, Leandro Soriano Marcolino, Luiz Chaimowicz
+- Positive and Unlabeled Learning for Detecting Software Functional Clones with Adversarial Training, Huihui Wei, Ming Li
+- Cutting the Software Building Efforts in Continuous Integration by Semi-Supervised Online AUC Optimization, Zheng Xie, Ming Li
+- Multi-scale and Discriminative Part Detectors Based Features for Multi-label Image Classification, Gong Cheng, Decheng Gao, Yang Liu, Junwei Han
+- Alternating-time Temporal Logic on Finite Traces, Francesco Belardinelli, Alessio Lomuscio, Aniello Murano, Sasha Rubin
+- Leveraging Latent Label Distributions for Partial Label Learning, Lei Feng, BO AN
+- DyNMF: Role Analytics in Dynamic Social Networks, Yulong Pei, Jianpeng Zhang, George Fletcher, Mykola Pechenizkiy
+- Representing Urban Functions through Zone Embedding with Human Mobility Patterns, Zijun Yao, Yanjie Fu, Bin Liu, Wangsu Hu, Hui Xiong
+- On the efficiency of data collection for crowdsourced classification, Edoardo Manino, Long Tran-Thanh, Nicholas R. Jennings
+- NeuCast: Seasonal Neural Forecast of Power Grid Time Series, Pudi Chen, Shenghua Liu, Chuan Shi, Bryan Hooi, Bai Wang, Xueqi Cheng
+- Computing Approximate Query Answers over Inconsistent Knowledge Bases, Sergio Greco, Cristian Molinaro, Irina Trubitsyna
+- Methods for off-line/on-line optimization under uncertainty, Allegra De Filippo, Michele Lombardi, Michela Milano
+- Consequence-based Reasoning for Description Logics with Disjunction, Inverse Roles, Number Restrictions, and Nominals, David Tena Cucala, Bernardo Cuenca Grau, Ian Horrocks
+- CAGAN: Consistent Adversarial Training Enhanced GANs, Yao Ni, Dandan Song, Xi Zhang, Hao Wu, Lejian Liao
+- Single-Shot Epistemic Logic Program Solving, Manuel Bichler, Michael Morak, Stefan Woltran
+- Interactive Optimal Teaching with Unknown Learners, Francisco Melo, Carla Guerra, Manuel Lopes
+- Simpler and Faster Algorithm for Checking the Dynamic Consistency of Conditional Simple Temporal Networks, Luke Hunsberger, Roberto Posenato
+- Unchaining the Power of Partial Delete Relaxation, Part II: Finding Plans with Red-Black State Space Search, Maximilian Fickert, Daniel Gnad, Joerg Hoffmann
+- Combining Opinion Pooling and Evidential Updating for Multi-Agent Consensus, Chanelle Lee, Jonathan Lawry, Alan Winfield
+- NPE: Neural Personalized Embedding for Collaborative Filtering, ThaiBinh Nguyen, Atsuhiro Takasu
+- Self-Supervised Deep Low-Rank Assignment Model for Prototype Selection, Xingxing Zhang, Zhenfeng Zhu, Yao Zhao, Deqiang Kong
+- Multi-Level Metric Learning via Smoothed Wasserstein Distance, Jie Xu, Lei Luo, Cheng Deng, Heng Huang
+- Budget-feasible Procurement Mechanisms in Two-sided Markets, Weiwei Wu, Xiang Liu, Minming Li
+- Aspect Sentiment Classification with both Word-level and Clause-level Attention Networks, Jingjing Wang, Jie Li, Shoushan Li, Yangyang Kang, Min Zhang, Luo Si, Guodong Zhou
+- Computational Approaches for Stochastic Shortest Path on Succinct MDPs, Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, Nastaran Okati
+- Emergency Response Optimization using Online Hybrid Planning, Durga Harish Dayapule, Aswin Raghavan, Prasad tadepalli, Alan Fern
+- New Balanced Active Learning Model and Optimization Algorithm, Xiaoqian Wang, Yijun Huang, Ji Liu, Heng Huang
+- Z-Transforms and its inference on partially observable point processes, Young Lee, Thanh Vinh Vo, Kar Wai Lim, Harold Soh
+- Robust Multi-view Learning via Half-quadratic Minimization, Yonghua Zhu, Xiaofeng Zhu, Wei Zheng
+- Features, Projections, and Representation Change for Generalized Planning, Blai Bonet, Hector Geffner
+- Master-Slave Curriculum Design for Reinforcement Learning, Yuechen Wu, Wei Zhang, Ke Song
+- Predicting Activity and Location with Multi-task Context Aware Recurrent Neural Network, Dongliang Liao, Weiqing Liu, Yuan Zhong, Jing Li, Guowei Wang
+- Trembling-Hand Perfection in Extensive-Form Games with Commitment, Gabriele Farina, Alberto Marchesi, Christian Kroer, Nicola Gatti, Tuomas Sandholm
+- Local Minima, Heavy Tails, and Search Effort for GBFS, Eldan Cohen, J. Christopher Beck
+- Solving Patrolling Problems in the Internet Environment, Tomas Brazdil, Antonin Kucera, Vojtech Rehak
+- Fast Model Identification via Physics Engines for Data-Efficient Policy Search, Shaojun Zhu, Andrew Kimmel, Kostas Bekris, Abdeslam Boularias
+- Facility Reallocation on the Line, Bart de Keijzer, Dominik Wojtczak
+- Video Captioning with Tube Features, Xuelong Li, Bin Zhao, Xiaoqiang Lu
+- Negotiation Strategies for Agents with Ordinal Preferences, Sefi Erlich, Noam Hazon, Sarit Kraus
+- High-Order Co-Clustering via Strictly Orthogonal and Symmetric L1-Norm Nonnegative Matrix Tri-Factorization, Kai Liu, Hua Wang
+- Hashtag2Vec: Learning Hashtag Representation with Relational Hierarchical Embedding Model, Jie Liu, Zhicheng He, Yalou Huang
+- First-Order Rewritability of Frontier-Guarded Ontology-Mediated Queries, Pablo Barcelo, Gerald Berger, Carsten Lutz, Andreas Pieris
+- Metadata-dependent Infinite Poisson Factorization for Efficiently Modelling Sparse and Large Matrices in Recommendation, Trong Dinh Thac Do, Longbing Cao
+- Explainable Certain Answers, Giovanni Amendola, Leonid Libkin
+- Novel Structural Parameters for Acyclic Planning Using Tree Embeddings, Christer Bäckström, Peter Jonsson, Sebastian Ordyniak
+- Efficient computation of approximate equilibria in discrete Colonel Blotto games, Dong Quan Vu, Patrick Loiseau, Alonso Silva
+- Learning to Converse with Noisy Data: Generation with Calibration, Mingyue Shang, Zhenxin Fu, Nanyun Peng, Yansong Feng, Dongyan Zhao, Rui Yan
+- Algorithms for Fair Load Shedding in Developing Countries, Olabambo Oluwasuji, Obaid Malik, Jie Zhang, Sarvapali Ramchurn
+- Goal-Based Collective Decisions: Axiomatics and Computational Complexity, Arianna Novaro, Umberto Grandi, Dominique Longin, Emiliano Lorini
+- Stratification for Constraint-Based Multi-Objective Combinatorial Optimization, Miguel Terra-Neves, Ines Lynce, Vasco Manquinho
+- Active Discriminative Network Representation Learning, Li Gao, Hong Yang, Chuan Zhou, Jia Wu, Shirui Pan, Yue Hu
+- Planning and Learning with Stochastic Action Sets, Craig Boutilier, Alon Cohen, Avinatan Hassidim, Yishay Mansour, Ofer Meshi, Martin Mladenov, Dale Schuurmans
+- An Operational Semantics for a Fragment of PRS, Lavindra de Silva, Felipe Meneguzzi, Brian Logan
+- Deep Learning for Multi-Facility Location Mechanism Design, Noah Golowich, Harikrishna Narasimhan, David Parkes
+- An Analytical and Experimental Comparison of Maximal Lottery Schemes, Florian Brandl, Felix Brandt, Christian Stricker
+- Discrete Interventions in Hawkes Processes with Applications in Invasive Species Management, Amrita Gupta, Mehrdad Farajtabar, Bistra Dilkina, Hongyuan Zha
+- Accelerated Difference of Convex functions Algorithm and its Application to Sparse Binary Logistic Regression, Duy Nhat Phan, Hoai Minh Le, Hoai An Le Thi
+- LP Heuristics over Conjunctions: Compilation, Convergence, Nogood Learning, Marcel Steinmetz, Joerg Hoffmann
+- Unary Integer Linear Programming with Structural Restrictions, Eduard Eiben, Robert Ganian, Sebastian Ordyniak, Dusan Knop
+- Redividing the Cake, Erel Segal-Halevi
+- Solving Exist-Random Quantified Stochastic Boolean Satisfiability via Clause Selection, Nian-Ze Lee, Yen-Shi Wang, Jie-Hong Jiang
+- MEGAN: Mixture of Experts of Generative Adversarial Networks for Multimodal Image Generation, David Keetae Park, Seungjoo Yoo, Hyojin Bahng, Jaegul Choo, Noseong Park
+- Goal-HSVI: Heuristic Search Value Iteration for Goal POMDPs, Karel Horák, Branislav Bošanský, Krishnendu Chatterjee
+- A Scalable Scheme for Counting Linear Extensions, Topi Talvitie, Kustaa Kangas, Teppo Niinimäki, Mikko Koivisto
+- Balancing Two-Player Stochastic Games with Soft Q-Learning, Jordi Grau-Moya, Haitham Bou-Ammar, Felix Leibfried
+- Adversarial Regression for Detecting Attacks in Cyber-Physical Systems, Amin Ghafouri, Yevgeniy Vorobeychik, Xenofon Koutsoukos
+- Adversarial Task Assignment, Chen Hajaj, Yevgeniy Vorobeychik
+- Anonymizing k Facial Attributes via Adversarial Perturbations, Saheb Chhabra, Richa Singh, Mayank Vatsa, Gaurav Gupta
+- Integrating Demand Response and Renewable Energy In Wholesale Market, Chaojie Li, Chen Liu, Xinghuo Yu, Ke Deng, Tingwen Huang, Liangchen Liu
+- A Structural Approach to Activity Selection, Eduard Eiben, Robert Ganian, Sebastian Ordyniak
+- Two Approaches to Ontology Aggregation Based on Axiom Weakening, Daniele Porello, Nicolas Troquard, Rafael Penaloza, Roberto Confalonieri, Pietro Galliani, Oliver Kutz
+- Back to Basics: Benchmarking Canonical Evolution Strategies for Playing Atari, Patryk Chrabąszcz, Ilya Loshchilov, Frank Hutter
+- Counterplanning using Goal Recognition and Landmarks, Alberto Pozanco, Yolanda Escudero Martin, Susana Fernandez, Daniel Borrajo
+- Joint Generative Moment-Matching Network for Learning Structural Latent Code, Hongchang Gao, Heng Huang
+- Stratified Negation in Limit Datalog Programs, Mark Kaminski, Bernardo Cuenca Grau, Egor V. Kostylev, Boris Motik, Ian Horrocks
+- Crowd Counting using Deep Recurrent Spatial-Aware Network, Lingbo Liu, Hongjun Wang, Guanbin Li, Wanli Ouyang, Liang Lin
+- Egalitarian Committee Scoring Rules, Haris Aziz, Piotr Faliszewski, Bernard Grofman, Arkadii Slinko, Nimrod Talmon
+- Inconsistency-Tolerant Ontology-Based Data Access Revisited: Taking Mappings into Account, Meghyn Bienvenu
+- Empirical Analysis of Foundational Distinctions in the Web of Data, Luigi Asprino, Valerio Basile, Paolo Ciancarini, Valentina Presutti
+- Content-Aware Hierarchical Point-of-Interest Embedding Model for Successive POI Recommendation, Buru Chang, Yonggyu Park, Donghyeon Park, Seongsoon Kim, Jaewoo Kang
+- Exploiting Graph Regularized Multi-dimensional Hawkes Processes for Modeling Events with Spatio-temporal Characteristics, Yanchi Liu, Tan Yan, Haifeng Chen
+- Request-and-Reverify: Hierarchical Hypothesis Testing for Concept Drift Detection with Expensive Labels, Shujian Yu, Xiaoyang Wang, Jose Principe
+- Accountable Approval Sorting, Khaled Belahcene, Yann Chevaleyre, Christophe Labreuche, Nicolas Maudet, Vincent Mousseau, Wassila Ouerdane
+- Anytime Focal Search with Applications, Liron Cohen, Matías Greco, Hang Ma, Carlos Hernandez, Ariel Felner, T. K. Satish Kumar, Sven Koenig
+- Distributed Pareto Optimization for Subset Selection, Chao Qian, Guiying Li, Chao Feng, Ke Tang
+- Tractable (Simple) Contests, Priel Levy, David Sarne, Yonatan Aumann
+- Exploration by Distributional Reinforcement Learning, Yunhao Tang, Shipra Agrawal
+- Compact-MDD: Efficiently Filtering (s)MDD Constraints with Reversible Sparse Bit-sets, Helene Verhaeghe, Christophe Lecoutre, Pierre Schaus
+- A Degeneracy Framework for Graph Similarity, Giannis Nikolentzos, Polykarpos Meladianos, Stratis Limnios, Michalis Vazirgiannis
+- Efficient Localized Inference for Large Graphical Models, Jinglin Chen, Jian Peng, Qiang Liu
+- Differentiable Submodular Maximization, Sebastian Tschiatschek, Aytunc Sahin, Andreas Krause
+- Stochastic Second-Order Method for Large-Scale Nonconvex Sparse Learning Models, Hongchang Gao, Heng Huang
+- Online, Interactive User Guidance for High-dimensional, Constrained Motion Planning, Fahad Islam, Oren Salzman, Maxim Likhachev
+- Behavioral Cloning from Observation, Faraz Torabi, Garrett Warnell, Peter Stone
+- Reachability Analysis of Deep Neural Networks with Provable Guarantees, Wenjie Ruan, Xiaowei Huang, Marta Kwiatkowska
+- Behavior of analogical inference w.r.t. Boolean functions, Miguel Couceiro, Nicolas Hug, Henri Prade, Gilles Richard
+- Multi-modal Predicate Identification using Dynamically Learned Robot Controllers, Saeid Amiri, Suhua Wei, Shiqi Zhang, Jivko Sinapov, Jesse Thomason, Peter Stone
+- Divide and Conquer: Towards Faster Pseudo-Boolean Solving, Jan Elffers, Jakob Nordström
+- Learning SMT(LRA) constraints using SMT solvers, Samuel Kolb, Stefano Teso, Andrea Passerini, Luc de Raedt
+- A Reactive Strategy for High-Level Consistency During Search, Robert Woodward, Berthe Y Choueiry, Christian Bessiere
+- An FPTAS for Computing Nash Equilibrium in Resource Graph Games, Hau Chan, Albert Xin Jiang
+- An Efficient Symbolic Partial Integration Operator for Probabilistic Inference, Samuel Kolb, Martin Mladenov, Scott Sanner, Vaishak Belle, Kristian Kersting
+- Core-Guided Minimal Correction Set and Core Enumeration, Nina Narodytska, Nikolaj Bjorner, Maria-Cristina Marinescu, Mooly Sagiv
+- Spatio-Temporal Check-in Time Prediction with Recurrent Neural Network based Survival Analysis, Guolei Yang, Ying Cai, Chandan K Reddy
+- Understanding Conflict-Driven Clause Learning SAT Solvers Through the Lens of Proof Complexity, Jan Elffers, Jesús Giráldez-Cru, Jakob Nordström, Laurent Simon, Stephan Gocht
+- Completeness-Preserving Dominance Techniques for Satisficing Planning, Álvaro Torralba
+- Compiling Model Representations for Querying Large ABoxes in Expressive DLs, Labinot Bajraktari, Magdalena Ortiz, Mantas Simkus
+- Learning Optimal Decision Trees with SAT, Nina Narodytska, Alexey Ignatiev, Filipe Pereira, Joao Marques-Silva
+- Experimental Design under the Bradley-Terry Model, Yuan Guo, Peng Tian, Jayashree Kalpathy-Cramer, Susan Ostmo, J.Peter Campbell, Michael F.Chiang, Deniz Erdogmus, Jennifer Dy, Stratis Ioannidis
+- A Decentralised Approach to Intersection Traffic Management, Huan Vu, Samir Aknine, Sarvapali Ramchurn
+- LTL Realizability via Safety and Reachability Games, Alberto Camacho, Christian Muise, Jorge A. Baier, Sheila A. McIlraith
+- Combinatorial Auctions via Machine Learning-based Preference Elicitation, Gianluca Brero, Benjamin Lubin, Sven Seuken
+- High-Fidelity Simulated Players for Interactive Narrative Planning, Pengcheng Wang, Jonathan Rowe, Wookhee Min, Bradford Mott, James Lester
+- A Group-based Approach to Improve Multifactorial Evolutionary Algorithm, Jing Tang, Yingke Chen, Zixuan Deng, Yanping Xiang, Colin Paul Joy
+- Designing the Game to Play: Optimizing Payoff Structure in Security Games, Zheyuan Ryan Shi, Ziye Tang, Long Tran-Thanh, Rohit Singh, Fei Fang
+- Bidding in Periodic Double Auctions Using Heuristics and Dynamic Monte Carlo Tree Search, Moinul Morshed Porag Chowdhury, Christopher Kiekintveld, Son Tran, William Yeoh
+- Minimax-Regret Querying on Side Effects for Safe Optimality in Factored Markov Decision Processes, Shun Zhang, Edmund H. Durfee, Satinder Singh
+- Deep Attributed Network Embedding, Hongchang Gao, Heng Huang
+- A Local Algorithm for Product Return Prediction in E-Commerce, Yada Zhu, Jianbo Li, Jingrui He, Brian Quanz, Ajay Deshpande
+- A Deep Framework for Cross-Domain and Cross-System Recommendations, Feng Zhu, Yan Wang, Chaochao Chen, Guanfeng Liu, Mehmet Orgun, Jia Wu
+- Dynamically Forming a Group of Human Forecasters and Machine Forecaster for Forecasting Economic Indicators, Takahiro Miyoshi, Shigeo Matsubara
+- Temporal Belief Memory: Imputing Missing Data during RNN Training, Yeo Jin Kim, Min Chi
+- Relevance in Structured Argumentation, Christian Straßer, AnneMarie Borg
+- Hashing over Predicted Future Frames for Informed Exploration of Deep Reinforcement Learning, Haiyan Yin, Jianda Chen, Sinno Jialin Pan
+- Scalable Probabilistic Causal Structure Discovery, Dhanya Sridhar, Jay Pujara, Lise Getoor
+- Comparing Approximate Relaxations of Envy-Freeness, Georgios Amanatidis, Georgios Birmpas, Vangelis Markakis
+- Generalization-Aware Structured Regression towards Balancing Bias and Variance, Martin Pavlovski, Fang Zhou, Nino Arsov, Ljupco Kocarev, Zoran Obradovic
+- Counterexample-Guided Data Augmentation, Tommaso Dreossi, Shromona Ghosh, Xiangyu Yue, Kurt Keutzer, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia
+- A Symbolic Approach to Explaining Bayesian Network Classifiers, Andy Shih, Arthur Choi, Adnan Darwiche
+- Social Media based Simulation Models for Understanding Disease Dynamics, Ting Hua, Chandan K Reddy, Lei Zhang, Lijing Wang, Liang Zhao, Chang-Tien Lu, Naren Ramakrishnan
+- A Cloaking Mechanism to Mitigate Market Manipulation, Xintong Wang, Yevgeniy Vorobeychik, Michael P. Wellman
+- Hierarchical Active Learning with Group Proportion Feedback, Zhipeng Luo, Milos Hauskrecht
+- An Axiomatic View of the Parimutuel Consensus Mechanism, Rupert Freeman, David M. Pennock
+- Learning to Infer Final Plans in Human Team Planning, Joseph Kim, Matthew Woicik, Matthew Gombolay, Sung-Hyun Son, Julie Shah
+- ANRL: Attributed Network Representation Learning via Deep Neural Networks, Zhen Zhang, Hongxia Yang, Jiajun Bu, Sheng Zhou, Pinggang Yu, Jianwei Zhang, Martin Ester, Can Wang
+- On Robust Trimming of Bayesian Network Classifiers, YooJung Choi, Guy Van den Broeck
+- Attention-Fused Deep Matching Network for Natural Language Inference, Chaoqun Duan, Lei Cui, Xinchi Chen, Furu Wei, Conghui Zhu, Tiejun Zhao
+- Cross-Domain Depression Detection via Harvesting Social Media, Tiancheng Shen, Jia Jia, Guangyao Shen, Fuli Feng, Xiangnan He, Huanbo Luan, Jie Tang, Thanassis Tiropanis, Tat-Seng Chua, Wendy Hall
+- Replicating Active Appearance Model by Generator Network, Tian Han, Jiawen Wu, Ying Nian Wu
+- Same Representation, Different Attentions: Shareable Sentence Representation Learning from Multiple Tasks, Renjie Zheng, Junkun Chen, Xipeng Qiu
+- Network Approximation using Tensor Sketching, Shiva Prasad Kasiviswanathan, Nina Narodytska, Hongxia Jin
+- Summarizing Source Code with Transferred API Knowledge, Xing Hu, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin
+- Learning Out-of-Vocabulary Words in Intelligent Personal Agents, Avik Ray, Yilin Shen, Hongxia Jin
+- Planning in Factored State and Action Spaces with Learned Binarized Neural Network Transition Models, Buser Say, Scott Sanner
+- Finding Frequent Entities in Continuous Data, Ferran Alet, Tomas Lozano-Perez, Rohan Chitnis, Leslie P. Kaelbling
+- Robust Graph Dimensionality Reduction, Xiaofeng Zhu, Cong Lei, Hao Yu, Yonggang Li, Jiangzhang Gan, Shichao Zhang
+- Recommendation with Multi-Source Heterogeneous Information, Li Gao, Hong Yang, Jia Wu, Chuan Zhou, Weixue Lu, Yue Hu
+- Deep Convolutional Neural Networks with Merge-and-Run Mappings, Liming Zhao, Mingjie Li, Depu Meng, Xi Li, Zhaoxiang Zhang, Yueting Zhuang, Zhuowen Tu, Jingdong Wang
+- Big City vs. the Great Outdoors: Voter Distribution and How It Affects Gerrymandering, Allan Borodin, Omer Lev, Nisarg Shah, Tyrone Strangway
+- Keeping in Touch with Collaborative UAVs: A Deep Reinforcement Learning Approach, Bo Yang, Min Liu
+- Building Sparse Deep Feedforward Networks using Tree Receptive Fields, Xiaopeng Li, Zhourong Chen, Nevin L Zhang
+- Where have you been? Inferring career trajectory from academic social network, Kan Wu, Jie Tang, Chenhui Zhang
+- Understanding Subgoal Graphs by Augmenting Contraction Hierarchies, Tansel Uras, Sven Koenig
+- Similarity-Based Reasoning, Raven’s Matrices, and General Intelligence, Can Mekik, Ron Sun, David Yun Dai
+- The Price of Usability: Designing Operationalizable Strategies for Security Games, Sara Marie Mc Carthy, Corine Laan, Kai Wang, Phebe Vayanos, Arunesh Sinha, Milind Tambe
+- Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction, Sen Su, Ningning Jia, Xiang Cheng, Shuguang Zhu, Ruiping Li
+- Nonrigid Points Alignment with Soft-weighted Selection, Xuelong Li, Jian Yang, Qi Wang
+- Interpretable Adversarial Perturbation in Input Embedding Space for Text, Motoki Sato, Jun Suzuki, Hiroyuki Shindo, Yuji Matsumoto
+- Robot Task Interruption by Learning to Switch Among Multiple Models, Anahita Mohseni-Kabir, Manuela Veloso
+- Mixed Causal Structure Discovery with Application to Prescriptive Pricing, Wenjuan Wei, Lu Feng, Chunchen Liu
+- Experienced Optimization with Reusable Directional Model for Hyper-Parameter Search, Yi-Qi Hu, Yang Yu, Zhi-Hua Zhou
+- A Graphical Criterion for Effect Identification in Equivalence Classes of Causal Diagrams, Amin Jaber, Jiji Zhang, Elias Bareinboim
+- Neural User Response Generator: Fake News Detection with Collective User Intelligence, Feng Qian, Chengyue Gong, Karishma Sharma, Yan Liu
+- Complexity of Scheduling Charging in the Smart Grid, Mathijs de Weerdt, Michael Albert, Vincent Conitzer, Koos van der Linden
+- Admissible abstractions for near-optimal task and motion planning, William Vega-Brown, Nicholas Roy
+- Learning Environmental Calibration Actions for Policy Self-Evolution, Chao Zhang, Yang Yu, Zhi-Hua Zhou
+- Lifelong Domain Word Embedding via Meta-Learning, Hu Xu, Bing Liu, Lei Shu, Philip Yu
+- Determining Persuasiveness in Essays, Winston Carlile, Nishant Gurradapi, Zixuan Ke, Vincent Ng
+- Translations as Additional Contexts for Sentence Classification, Reinald Kim Amplayo, Kyungjae Lee, Jinyoung Yeo, Seung-won Hwang
+- Structured Inference for Recurrent Hidden Semi-markov Model, Hao Liu, Lirong He, Haoli Bai, Bo Dai, Kun Bai, Zenglin Xu
+- Biased Random Walk based Social Regularization for Word Embeddings, Ziqian Zeng, Xin Liu, Yangqiu Song
+- Feature Hashing for Network Representation Learning, Qixiang Wang, Shanfeng Wang, Maoguo Gong, Yue Wu
+- Semi-Supervised Optimal Transport for Heterogeneous Domain Adaptation, Yuguang Yan, Wen Li, Hanrui Wu, Huaqing Min, Mingkui Tan, Qingyao Wu
+- On the Conditional Logic of Simulation Models, Duligur Ibeling, Thomas Icard
+- Vocabulary Alignment for Collaborative Agents: a Study with Real-World Multilingual How-to Instructions, Paula Chocron, Paolo Pareti
+- Scheduling under Uncertainty: A Query-based Approach, Luciana Arantes, Evripidis Bampis, Alexander Kononov, Manthos Letsios, Giorgio Lucarelli, Pierre Sens
+- Joint Learning of Phenotypes and Diagnosis-Medication Correspondence via Hidden Interaction Tensor Factorization, Kejing Yin, William K. Cheung, Yang Liu, Benjamin C. M. Fung, Jonathan Poon
+- Learning to Recognize Transient Sound Events using Attentional Supervision, Szu-Yu Chou, Jyh-Shing Jang, Yi-Hsuan Yang
+- A Novel Data Representation for Effective Learning in Class Imbalanced Scenarios, Sri Harsha Dumpala, Rupayan Chakraborty, Sunil Kumar Kopparapu
+- Generating Adversarial Examples with Adversarial Networks, Chaowei Xiao, Bo Li, Jun-yan Zhu, Warren He, Mingyan Liu, Dawn Song
+- Complexity of Approximate Query Answering under Inconsistency in Datalog+/-, Thomas Lukasiewicz, Enrico Malizia, Cristian Molinaro
+- Learning Latent Feature Relational Models via Small-Variance Asymptotics, Gundeep Arora, Anupreet Porwal, Avani Samdariya, Piyush Rai, Kanupriya Agarwal
+- Reinforced Mnemonic Reader for Machine Reading Comprehension, Minghao Hu, Yuxing Peng, Zhen Huang, Xipeng Qiu, Furu Wei, Ming Zhou
+- Joint Posterior Revision of NLP Annotations via Ontological Knowledge, Marco Rospocher, Francesco Corcoglioniti
+- ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions, Soham Parikh, Ananya Sai, Preksha Nema, Mitesh Khapra
+- The Complexity of Limited Belief Reasoning—The Quantifier-Free Case, Yijia Chen, Abdallah Saffidine, Christoph Schwering
+- Fair Division Under Cardinality Constraints, Arpita Biswas, Siddharth Barman
+- Smarter Response with Proactive Suggestion: A New Generative Neural Conversation Paradigm, Rui Yan, Dongyan Zhao
+- Feature Enhancement in Attention for Visual Question Answering, Yuetan Lin, Zhangyang Pang, Donghui Wang, Yueting Zhuang
+- Combinatorial Pure Exploration with Continuous and Separable Reward Functions and Its Applications, Weiran Huang, Jungseul Ok, Liang Li, Wei Chen
+
+#### ORGANIZED BY:
+
+![img](https://www.ijcai-18.org/wp-content/uploads/logos/ijcai.png)
+
+IJCAI - International Joint Conference on Artificial Intelligence
+
+![img](https://www.ijcai-18.org/wp-content/uploads/logos/eurai.png)
+
+EurAI - European Association for Artificial Intelligence
+
+![img](https://www.ijcai-18.org/wp-content/uploads/logos/sais.png)
+
+SAIS - Swedish Artificial Intelligence Society
+
+Copyright © 2018 IJCAI-ECAI-18 All Rights Reserved.
