@@ -4,52 +4,54 @@ mainly about AI & DM
 
 ## AAAI
 
-| Conference | Source                                                       |
-| ---------- | ------------------------------------------------------------ |
-| AAAI-20    | [pdf](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) |
-| AAAI-19    | [pdf](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) |
-| AAAI-18    | [pdf](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) |
-| AAAI-17    | [pdf](https://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf) |
+| Conference | Source                                                                                                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------ |
+| AAAI-20    | [Link](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)      |
+| AAAI-19    | [Link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)          |
+| AAAI-18    | [Link](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) |
+| AAAI-17    | [Link](https://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf)                                 |
+| AAAI-16    | [Link](https://www.aaai.org/Conferences/AAAI/2016/aaai16accepted-papers.pdf)                                 |
+| AAAI-15    | [Link](https://www.aaai.org/Conferences/AAAI/2015/iaai15accepted-papers.pdf)                                 |
+| AAAI-14    | [Link](https://www.aaai.org/Conferences/AAAI/2014/aaai14accepts.php)                                         |
+| AAAI-13    | [Link](https://www.aaai.org/Conferences/AAAI/2013/aaai13accepts.php)                                         |
+| AAAI-12    | [Link](https://www.aaai.org/Conferences/AAAI/2012/aaai12accepts.pdf)                                         |
 
 
+## [IJCAI](https://www.ijcai.org/past_proceedings)
 
-## IJCAI
-
-| Conference | Source                                                       |
-| ---------- | ------------------------------------------------------------ |
-| IJCAI-20   | [Web page](http://static.ijcai.org/2020-accepted_papers.html) |
-| IJCAI-19   | [Web page](https://www.ijcai19.org/accepted-papers.html)     |
-| IJCAI-18   | [Web page](https://www.ijcai-18.org/accepted-papers/index.html) |
-| IJCAI-17   | [Web page](https://ijcai-17.org/accepted-papers.html)        |
-
+| Conference | Source                                                      |
+| ---------- | ----------------------------------------------------------- |
+| IJCAI-20   | [Link](http://static.ijcai.org/2020-accepted_papers.html)   |
+| IJCAI-19   | [Link](https://www.ijcai19.org/accepted-papers.html)        |
+| IJCAI-18   | [Link](https://www.ijcai-18.org/accepted-papers/index.html) |
+| IJCAI-17   | [Link](https://ijcai-17.org/accepted-papers.html)           |
+| IJCAI-16   | [Link](https://www.ijcai.org/proceedings/2016)              |
+| IJCAI-15   | [Link](https://www.ijcai.org/Proceedings/2015)              |
+| IJCAI-14   | None                                                        |
+| IJCAI-13   | [Link](https://www.ijcai.org/Proceedings/2013)              |
+| IJCAI-12   | None                                                        |
 
 
 ## KDD
 
-| Conference  | Source                                                    |
-| ----------- | --------------------------------------------------------- |
-| KDD-20      | [Web page](https://www.kdd.org/kdd2020/accepted-papers)   |
-| KDD-19      | [Web page](https://www.kdd.org/kdd2019/accepted-papers#!) |
-| KDD-18      | [Web page](https://www.kdd.org/kdd2018/accepted-papers)   |
-| KDD-17      | [Web page](https://www.kdd.org/kdd2017/accepted-papers)   |
-| $\vdots$-mn | https://www.kdd.org/kdd20mn/accepted-papers               |
-
+| Conference | Source                                              |
+| ---------- | --------------------------------------------------- |
+| KDD-20     | [Link](https://www.kdd.org/kdd2020/accepted-papers) |
+| KDD-19     | [Link](https://www.kdd.org/kdd2019/accepted-papers) |
+| KDD-18     | [Link](https://www.kdd.org/kdd2018/accepted-papers) |
+| KDD-17     | [Link](https://www.kdd.org/kdd2017/accepted-papers) |
 
 
 ## TheWebConf ( a.k.a. WWW )
 
-| Conference | Source                                                    |
-| ---------- | --------------------------------------------------------- |
-| WWW-20     | [Web](https://dl.acm.org/doi/proceedings/10.1145/3366423) |
-| WWW-19     | [Web](https://www2019.thewebconf.org/accepted-papers)     |
-| WWW-18     | [Web](https://dl.acm.org/doi/proceedings/10.5555/3178876) |
-| WWW-17     | [Web](https://dl.acm.org/doi/proceedings/10.1145/3308558) |
-
+| Conference | Source                                                     |
+| ---------- | ---------------------------------------------------------- |
+| WWW-20     | [Link](https://dl.acm.org/doi/proceedings/10.1145/3366423) |
+| WWW-19     | [Link](https://www2019.thewebconf.org/accepted-papers)     |
+| WWW-18     | [Link](https://dl.acm.org/doi/proceedings/10.5555/3178876) |
+| WWW-17     | [Link](https://dl.acm.org/doi/proceedings/10.1145/3308558) |
 
 
 ## NeurIPS
 
-nips有完整的accepted paper list:[NeurIPS](https://papers.nips.cc/)
-
-Awesome!
-
+[All Links](https://papers.nips.cc/)
