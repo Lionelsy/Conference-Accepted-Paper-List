@@ -4,18 +4,18 @@ mainly about AI & DM
 
 ## AAAI
 
-| Conference | Source                                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------------------------------ |
-| AAAI-21    | [Link](AAAI/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf)      |
-| AAAI-20    | [Link](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)      |
-| AAAI-19    | [Link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)          |
+| Conference | Source                                                       |
+| ---------- | ------------------------------------------------------------ |
+| AAAI-21    | [Link](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf) |
+| AAAI-20    | [Link](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) |
+| AAAI-19    | [Link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) |
 | AAAI-18    | [Link](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) |
-| AAAI-17    | [Link](https://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf)                                 |
-| AAAI-16    | [Link](https://www.aaai.org/Conferences/AAAI/2016/aaai16accepted-papers.pdf)                                 |
-| AAAI-15    | [Link](https://www.aaai.org/Conferences/AAAI/2015/iaai15accepted-papers.pdf)                                 |
-| AAAI-14    | [Link](https://www.aaai.org/Conferences/AAAI/2014/aaai14accepts.php)                                         |
-| AAAI-13    | [Link](https://www.aaai.org/Conferences/AAAI/2013/aaai13accepts.php)                                         |
-| AAAI-12    | [Link](https://www.aaai.org/Conferences/AAAI/2012/aaai12accepts.pdf)                                         |
+| AAAI-17    | [Link](https://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf) |
+| AAAI-16    | [Link](https://www.aaai.org/Conferences/AAAI/2016/aaai16accepted-papers.pdf) |
+| AAAI-15    | [Link](https://www.aaai.org/Conferences/AAAI/2015/iaai15accepted-papers.pdf) |
+| AAAI-14    | [Link](https://www.aaai.org/Conferences/AAAI/2014/aaai14accepts.php) |
+| AAAI-13    | [Link](https://www.aaai.org/Conferences/AAAI/2013/aaai13accepts.php) |
+| AAAI-12    | [Link](https://www.aaai.org/Conferences/AAAI/2012/aaai12accepts.pdf) |
 
 
 ## [IJCAI](https://www.ijcai.org/past_proceedings)
