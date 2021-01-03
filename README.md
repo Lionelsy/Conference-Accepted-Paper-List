@@ -6,6 +6,7 @@ mainly about AI & DM
 
 | Conference | Source                                                                                                       |
 | ---------- | ------------------------------------------------------------------------------------------------------------ |
+| AAAI-21    | [Link](AAAI/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf)      |
 | AAAI-20    | [Link](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)      |
 | AAAI-19    | [Link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)          |
 | AAAI-18    | [Link](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) |
