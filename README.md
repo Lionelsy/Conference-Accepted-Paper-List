@@ -2,6 +2,8 @@
 
 mainly about AI & DM
 
+❗ 建议使用 [dblp](https://dblp.uni-trier.de/) 和 [Aminer](https://www.aminer.cn/conf)查询
+
 ## AAAI
 
 | Conference | Source                                                       |
@@ -32,8 +34,9 @@ mainly about AI & DM
 | IJCAI-13   | [Link](https://www.ijcai.org/Proceedings/2013)              |
 | IJCAI-12   | None                                                        |
 
-
 ## KDD
+
+> https://www.kdd.org/kdd20xx/accepted-papers
 
 | Conference | Source                                              |
 | ---------- | --------------------------------------------------- |
@@ -52,7 +55,7 @@ mainly about AI & DM
 | WWW-18     | [Link](https://dl.acm.org/doi/proceedings/10.5555/3178876) |
 | WWW-17     | [Link](https://dl.acm.org/doi/proceedings/10.1145/3308558) |
 
-# ICLR
+## ICLR
 
 FInding it on openreview:
 
@@ -63,8 +66,18 @@ FInding it on openreview:
 | Conference | Source                                                     |
 | ---------- | ---------------------------------------------------------- |
 | ICLR 2021  | [https://openreview.net/group?id=ICLR.cc/2021/Conference](https://openreview.net/group?id=ICLR.cc/2021/Conference) |
-| ICLR 2020     | [Link](https://openreview.net/group?id=ICLR.cc/2020/Conference)     |
+| ICLR 2020     | [https://openreview.net/group?id=ICLR.cc/2020/Conference](https://openreview.net/group?id=ICLR.cc/2020/Conference)     |
 
+
+
+## ICML
+
+>  https://icml.cc/Conferences/20xx/Schedule
+
+| Conference | Source                                                     |
+| ---------- | ---------------------------------------------------------- |
+| ICML 2020 | [https://icml.cc/Conferences/2020/Schedule](https://icml.cc/Conferences/2020/Schedule) |
+| ICML 2019  | [https://icml.cc/Conferences/2019/Schedule](https://icml.cc/Conferences/2019/Schedule)     |
 
 
 
@@ -72,3 +85,8 @@ FInding it on openreview:
 
 [All Links](https://papers.nips.cc/)
 
+
+
+## CIKM
+
+> https://dl.acm.org/doi/proceedings/10.1145/3340531
