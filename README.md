@@ -4,6 +4,8 @@ mainly about AI & DM
 
 ❗ 建议使用 [dblp](https://dblp.uni-trier.de/) 和 [Aminer](https://www.aminer.cn/conf)查询
 
+❗ it is recommended to use the [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf)(in Chinese)
+
 ## AAAI
 
 | Conference | Source                                                       |
@@ -24,6 +26,7 @@ mainly about AI & DM
 
 | Conference | Source                                                      |
 | ---------- | ----------------------------------------------------------- |
+|IJCAI-21|[Link](https://ijcai-21.org/program-main-track/)|
 | IJCAI-20   | [Link](http://static.ijcai.org/2020-accepted_papers.html)   |
 | IJCAI-19   | [Link](https://www.ijcai19.org/accepted-papers.html)        |
 | IJCAI-18   | [Link](https://www.ijcai-18.org/accepted-papers/index.html) |
@@ -40,6 +43,7 @@ mainly about AI & DM
 
 | Conference | Source                                              |
 | ---------- | --------------------------------------------------- |
+|KDD-21| [Link](https://kdd.org/kdd2021/accepted-papers)|
 | KDD-20     | [Link](https://www.kdd.org/kdd2020/accepted-papers) |
 | KDD-19     | [Link](https://www.kdd.org/kdd2019/accepted-papers) |
 | KDD-18     | [Link](https://www.kdd.org/kdd2018/accepted-papers) |
@@ -50,6 +54,7 @@ mainly about AI & DM
 
 | Conference | Source                                                     |
 | ---------- | ---------------------------------------------------------- |
+|WWW-21| [Link](https://www2021.thewebconf.org/program/papers/)|
 | WWW-20     | [Link](https://dl.acm.org/doi/proceedings/10.1145/3366423) |
 | WWW-19     | [Link](https://www2019.thewebconf.org/accepted-papers)     |
 | WWW-18     | [Link](https://dl.acm.org/doi/proceedings/10.5555/3178876) |
@@ -76,6 +81,7 @@ FInding it on openreview:
 
 | Conference | Source                                                     |
 | ---------- | ---------------------------------------------------------- |
+|ICML 2021| [https://icml.cc/Conferences/2021/Schedule](https://icml.cc/Conferences/2021/Schedule)|
 | ICML 2020 | [https://icml.cc/Conferences/2020/Schedule](https://icml.cc/Conferences/2020/Schedule) |
 | ICML 2019  | [https://icml.cc/Conferences/2019/Schedule](https://icml.cc/Conferences/2019/Schedule)     |
 
@@ -90,3 +96,8 @@ FInding it on openreview:
 ## CIKM
 
 > https://dl.acm.org/doi/proceedings/10.1145/3340531
+
+| Conference | Source                                                     |
+| ---------- | ---------------------------------------------------------- |
+|CIKM 2020|[Link](https://www.cikm2020.org/index.html@p=1073.html)|
+
