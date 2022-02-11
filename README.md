@@ -1,10 +1,25 @@
-# Some Conferences' accepted paper list
-
-mainly about AI & DM
+# Conferences' accepted paper lists
 
 ❗ 建议使用 [dblp](https://dblp.uni-trier.de/) 和 [Aminer](https://www.aminer.cn/conf)查询
 
-❗ it is recommended to use the [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf)(in Chinese)
+❗ It is highly recommended to utilize the [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf)(in Chinese) to search.
+
+
+
+## Table of Conferences
+
+* [AAAI](#AAAI) (to 2022)
+* [IJCAI](#IJCAI) (to 2021)
+* [KDD](#KDD) (to 2021)
+* [WWW](#WWW) (to 2021)
+* [ICLR ](#ICLR)(to 2022)
+* [ICML](#ICML) (to 2021)
+* [NeurIPS](#NeurIPS) (to 2021)
+* [CIKM](#CIKM) (to 2021)
+* [ICCV] (Cooming Soon)
+* [CVPR] (Cooming Soon)
+
+
 
 ## AAAI
 
@@ -22,6 +37,7 @@ mainly about AI & DM
 | AAAI-13    | [Link](https://www.aaai.org/Conferences/AAAI/2013/aaai13accepts.php) |                   |                   |
 
 
+
 ## [IJCAI](https://www.ijcai.org/past_proceedings)
 
 | Conference | Source                                                      | Deadline | Notification |
@@ -36,9 +52,11 @@ mainly about AI & DM
 | IJCAI-15   | [Link](https://www.ijcai.org/Proceedings/2015)              |  |  |
 | IJCAI-14   | None                                                        |  |  |
 
+
+
 ## KDD
 
-> https://www.kdd.org/kdd20xx/accepted-papers
+> Format : https://www.kdd.org/kdd20xx/accepted-papers
 
 | Conference | Source                                              | Deadline | Notification |
 | ---------- | --------------------------------------------------- | ---------- | ---------- |
@@ -48,6 +66,7 @@ mainly about AI & DM
 | KDD-19     | [Link](https://www.kdd.org/kdd2019/accepted-papers) |  |  |
 | KDD-18     | [Link](https://www.kdd.org/kdd2018/accepted-papers) |  |  |
 | KDD-17     | [Link](https://www.kdd.org/kdd2017/accepted-papers) |  |  |
+
 
 
 ## TheWebConf ( a.k.a. WWW )
@@ -79,11 +98,11 @@ FInding it on openreview:
 
 ## ICML
 
->  https://icml.cc/Conferences/20xx/Schedule
+>  Format https://icml.cc/Conferences/20xx/Schedule
 
 | Conference | Source                                                     | Deadline | Notification |
 | ---------- | ---------------------------------------------------------- | ---------- | ---------- |
-|ICML 2022|| Jan 27, 2022 |  |
+|ICML 2022|https://icml.cc/Conferences/2022/Schedule| Jan 27, 2022 |  |
 |ICML 2021| [https://icml.cc/Conferences/2021/Schedule](https://icml.cc/Conferences/2021/Schedule)|  |  |
 | ICML 2020 | [https://icml.cc/Conferences/2020/Schedule](https://icml.cc/Conferences/2020/Schedule) |  |  |
 | ICML 2019  | [https://icml.cc/Conferences/2019/Schedule](https://icml.cc/Conferences/2019/Schedule)     |  |  |
@@ -98,7 +117,7 @@ FInding it on openreview:
 
 ## CIKM
 
-> https://dl.acm.org/doi/proceedings/10.1145/3340531
+> All links : https://dl.acm.org/doi/proceedings/10.1145/3340531
 
 | Conference | Source                                                     | Deadline | Notification |
 | ---------- | ---------------------------------------------------------- | ---------- | ---------- |
