@@ -16,8 +16,6 @@
 * [ICML](#ICML) (to 2021)
 * [NeurIPS](#NeurIPS) (to 2021)
 * [CIKM](#CIKM) (to 2021)
-* [ICCV] (Cooming Soon)
-* [CVPR] (Cooming Soon)
 
 
 
@@ -69,7 +67,9 @@
 
 
 
-## TheWebConf ( a.k.a. WWW )
+## WWW
+
+TheWebConf
 
 | Conference | Source                                                     | Deadline | Notification |
 | ---------- | ---------------------------------------------------------- | ---------- | ---------- |
