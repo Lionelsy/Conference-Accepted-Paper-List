@@ -73,7 +73,7 @@ TheWebConf
 
 | Conference | Source                                                     | Deadline | Notification |
 | ---------- | ---------------------------------------------------------- | ---------- | ---------- |
-|WWW-22|| 2021-10-21 ... | 2022-01-13 ... |
+|WWW-22| [Link](https://www2022.thewebconf.org/accepted-papers/)| 2021-10-21 ... | 2022-01-13 ... |
 |WWW-21| [Link](https://www2021.thewebconf.org/program/papers/)|  |  |
 | WWW-20     | [Link](https://dl.acm.org/doi/proceedings/10.1145/3366423) |  |  |
 | WWW-19     | [Link](https://www2019.thewebconf.org/accepted-papers)     |  |  |
