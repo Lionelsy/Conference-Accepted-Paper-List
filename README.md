@@ -6,16 +6,17 @@
 
 
 
-## Table of Conferences
+## Quick Link
 
-* [AAAI](#AAAI) (to 2022)
-* [IJCAI](#IJCAI) (to 2021)
-* [KDD](#KDD) (to 2021)
-* [WWW](#WWW) (to 2022)
-* [ICLR ](#ICLR)(to 2022)
-* [ICML](#ICML) (to 2021)
-* [NeurIPS](#NeurIPS) (to 2021)
-* [CIKM](#CIKM) (to 2021)
+| Conference: | [AAAI](#AAAI) |[IJCAI](#IJCAI)|[KDD](#KDD) |[WWW](#WWW) |  [ICLR ](#ICLR)| [ICML](#ICML) |[NeurIPS](#NeurIPS)|[CIKM](#CIKM) |
+| ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2017 | [🔗](https://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf) | [🔗](https://ijcai-17.org/accepted-papers.html) | [🔗](https://www.kdd.org/kdd2017/accepted-papers) | [🔗](https://dl.acm.org/doi/proceedings/10.1145/3308558) |  |  | [🔗](https://papers.nips.cc/paper/2017) |  |
+| 2018 | [🔗](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) | [🔗](https://www.ijcai-18.org/accepted-papers/index.html) | [🔗](https://www.kdd.org/kdd2018/accepted-papers) | [🔗](https://dl.acm.org/doi/proceedings/10.5555/3178876) |  |  | [🔗](https://papers.nips.cc/paper/2018) |  |
+| 2019 | [🔗](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) | [🔗](https://www.ijcai19.org/accepted-papers.html) | [🔗](https://www.kdd.org/kdd2019/accepted-papers) | [🔗](https://www2019.thewebconf.org/accepted-papers) |  | [🔗](https://icml.cc/Conferences/2019/Schedule) | [🔗](https://papers.nips.cc/paper/2019) |  |
+| 2020 | [🔗](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) | [🔗](http://static.ijcai.org/2020-accepted_papers.htm) | [🔗](https://www.kdd.org/kdd2020/accepted-papers) | [🔗](https://dl.acm.org/doi/proceedings/10.1145/3366423) | [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference) | [🔗](https://icml.cc/Conferences/2020/Schedule) | [🔗](https://papers.nips.cc/paper/2020) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) |
+| 2021 | [🔗](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf) | [🔗](https://ijcai-21.org/program-main-track) | [🔗](https://kdd.org/kdd2021/accepted-papers) | [🔗](https://www2021.thewebconf.org/program/papers/) | [🔗](https://openreview.net/group?id=ICLR.cc/2021/Conference) | [🔗](https://icml.cc/Conferences/2021/Schedule) | [🔗](https://papers.nips.cc/paper/2021) | [🔗](https://www.cikm2021.org/accepted-papers) |
+| 2022 | [🔗](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf) |  |  | [🔗](https://www2022.thewebconf.org/accepted-papers/) | [🔗](https://openreview.net/group?id=ICLR.cc/2022/Conference) |  |  |  |
+| 2023 |      |      |      |      |      |      |      |      |
 
 
 
