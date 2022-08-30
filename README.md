@@ -24,6 +24,7 @@
 
 | Conference | Source                                                       | Deadline          | Notification      |
 | ---------- | ------------------------------------------------------------ | ----------------- | ----------------- |
+|AAAI-23||August 15, 2021|November 18, 2022|
 |AAAI-22|[Link](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)|September 8, 2021|November 29, 2021|
 | AAAI-21    | [Link](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf) |                   |                   |
 | AAAI-20    | [Link](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) |                   |                   |
@@ -41,6 +42,7 @@
 
 | Conference | Source                                                      | Deadline | Notification |
 | ---------- | ----------------------------------------------------------- | ---------- | ---------- |
+|IJCAI-23||                  |                |
 |IJCAI-22|[Link](https://ijcai-22.org/main-track-accepted-papers/)| January 14, 2022 | April 20, 2022 |
 |IJCAI-21|[Link](https://ijcai-21.org/program-main-track/)|  |  |
 | IJCAI-20   | [Link](http://static.ijcai.org/2020-accepted_papers.html)   |  |  |
@@ -59,7 +61,8 @@
 
 | Conference | Source                                              | Deadline | Notification |
 | ---------- | --------------------------------------------------- | ---------- | ---------- |
-|KDD-22|| Feb 10th, 2022 | May 19th, 2022 |
+|KDD-23||                |  |
+|KDD-22|[Link](https://kdd.org/kdd2022/paperRT.html)| Feb 10th, 2022 | May 19th, 2022 |
 |KDD-21| [Link](https://kdd.org/kdd2021/accepted-papers)|  |  |
 | KDD-20     | [Link](https://www.kdd.org/kdd2020/accepted-papers) |  |  |
 | KDD-19     | [Link](https://www.kdd.org/kdd2019/accepted-papers) |  |  |
@@ -74,6 +77,7 @@ TheWebConf
 
 | Conference | Source                                                     | Deadline | Notification |
 | ---------- | ---------------------------------------------------------- | ---------- | ---------- |
+|WWW-23|  | 2022-10-13 | 2023-01-25 |
 |WWW-22| [Link](https://www2022.thewebconf.org/accepted-papers/)| 2021-10-21 ... | 2022-01-13 ... |
 |WWW-21| [Link](https://www2021.thewebconf.org/program/papers/)|  |  |
 | WWW-20     | [Link](https://dl.acm.org/doi/proceedings/10.1145/3366423) |  |  |
@@ -91,7 +95,8 @@ FInding it on openreview:
 
 | Conference | Source                                                     | Deadline | Notification |
 | ---------- | ---------------------------------------------------------- | ---------- | ---------- |
-|ICLR 2022|https://openreview.net/group?id=ICLR.cc/2022/Conference|Oct 06 '21|Jan 24 '22|
+|ICLR 2023||2022-09-28|2023-01-20|
+|ICLR 2022|https://openreview.net/group?id=ICLR.cc/2022/Conference| 2021-10-06 |2022-01-24|
 | ICLR 2021  | [https://openreview.net/group?id=ICLR.cc/2021/Conference](https://openreview.net/group?id=ICLR.cc/2021/Conference) |  |  |
 | ICLR 2020     | [https://openreview.net/group?id=ICLR.cc/2020/Conference](https://openreview.net/group?id=ICLR.cc/2020/Conference)     |  |  |
 
@@ -103,6 +108,7 @@ FInding it on openreview:
 
 | Conference | Source                                                     | Deadline | Notification |
 | ---------- | ---------------------------------------------------------- | ---------- | ---------- |
+|ICML 2023||              |  |
 |ICML 2022|https://icml.cc/Conferences/2022/Schedule| Jan 27, 2022 |  |
 |ICML 2021| [https://icml.cc/Conferences/2021/Schedule](https://icml.cc/Conferences/2021/Schedule)|  |  |
 | ICML 2020 | [https://icml.cc/Conferences/2020/Schedule](https://icml.cc/Conferences/2020/Schedule) |  |  |
@@ -122,7 +128,8 @@ FInding it on openreview:
 
 | Conference | Source                                                     | Deadline | Notification |
 | ---------- | ---------------------------------------------------------- | ---------- | ---------- |
-|CIKM 2022| |  |  |
+|CIKM 2023| |  |  |
+|CIKM 2022| | 2022-05-29 | 2022-08-01 |
 |CIKM 2021|[Link](https://www.cikm2021.org/accepted-papers)|  |  |
 |CIKM 2020|[Link](https://www.cikm2020.org/index.html@p=1073.html)|  |  |
 
