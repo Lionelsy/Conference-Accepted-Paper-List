@@ -10,7 +10,7 @@
 | [IJCAI](#IJCAI) | ~January | ~April |   | [🔗](https://ijcai-22.org/main-track-accepted-papers/) | [🔗](https://ijcai-21.org/program-main-track/) | [🔗](http://static.ijcai.org/2020-accepted_papers.html) | [🔗](https://www.ijcai19.org/accepted-papers.html) | 
 | [KDD](#KDD) | ~February | ~May |   | [🔗](https://kdd.org/kdd2022/paperRT.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers) | [🔗](https://www.kdd.org/kdd2020/accepted-papers) | [🔗](https://www.kdd.org/kdd2019/accepted-papers) | 
 | [CIKM](#CIKM) | ~May | ~August |   | [🔗](https://www.cikm2022.org/papers-posters) | [🔗](https://www.cikm2021.org/accepted-papers) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) |   | 
-| [AAAI](#AAAI) | ~Aug | ~November |   | [🔗](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf) | [🔗](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf) | [🔗](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) | [🔗](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) | 
+| [AAAI](#AAAI) | ~Aug | ~November |   | [🔗](https://dblp.org/db/conf/aaai/aaai2022.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2021.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2020.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2019.html) | 
 | [WWW](#WWW) | ~October | ~January |   | [🔗](https://www2022.thewebconf.org/accepted-papers/) | [🔗](https://www2021.thewebconf.org/program/papers/) | [🔗](https://dl.acm.org/doi/proceedings/10.1145/3366423) | [🔗](https://www2019.thewebconf.org/accepted-papers) | 
 | | | | | | | | | 
 | [ICML](#ICML) | ~January | ~May |   | [🔗](https://icml.cc/Conferences/2022/Schedule) | [🔗](https://icml.cc/Conferences/2021/Schedule) | [🔗](https://icml.cc/Conferences/2020/Schedule) | [🔗](https://icml.cc/Conferences/2019/Schedule) | 
@@ -65,16 +65,14 @@
 | Year | Official Website |  Paper List | Deadline | Notification |
 | ---------- | ---------- | ----------- | ---------- | ---------- |
 | 2023| [🔗 link](https://aaai.org/Conferences/AAAI-23/)|  | 2022-08-15| 2023-08-15|
-| 2022|  | [🏠 website](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)| | |
-| 2021|  | [🏠 website](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf)| | |
-| 2020|  | [🏠 website](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)| | |
-| 2019|  | [🏠 website](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)| | |
-| 2018|  | [🏠 website](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)| | |
-| 2017|  | [🏠 website](https://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf)| | |
-| 2016|  | [🏠 website](https://www.aaai.org/Conferences/AAAI/2016/aaai16accepted-papers.pdf)| | |
-| 2015|  | [🏠 website](https://www.aaai.org/Conferences/AAAI/2015/iaai15accepted-papers.pdf)| | |
-| 2014|  | [🏠 website](https://www.aaai.org/Conferences/AAAI/2014/aaai14accepts.php)| | |
-| 2013|  | [🏠 website](https://www.aaai.org/Conferences/AAAI/2013/aaai13accepts.php)| | |
+| 2022|  | [🏠 website](https://dblp.org/db/conf/aaai/aaai2022.html)| | |
+| 2021|  | [🏠 website](https://dblp.org/db/conf/aaai/aaai2021.html)| | |
+| 2020|  | [🏠 website](https://dblp.org/db/conf/aaai/aaai2020.html)| | |
+| 2019|  | [🏠 website](https://dblp.org/db/conf/aaai/aaai2019.html)| | |
+| 2018|  | [🏠 website](https://dblp.org/db/conf/aaai/aaai2018.html)| | |
+| 2017|  | [🏠 website](https://dblp.org/db/conf/aaai/aaai2017.html)| | |
+| 2016|  | [🏠 website](https://dblp.org/db/conf/aaai/aaai2016.html)| | |
+| 2015|  | [🏠 website](https://dblp.org/db/conf/aaai/aaai2015.html)| | |
 
 
 
