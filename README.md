@@ -1,29 +1,18 @@
-# Conferences' accepted paper lists
-
-❗ 建议使用 [dblp](https://dblp.uni-trier.de/) 和 [Aminer](https://www.aminer.cn/conf)查询
-
-❗ It is highly recommended to utilize the [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf)(in Chinese) to search.
-
-
-
-
-
 # Quick Links
-
 | Conference | Submission | Notification | 2023 | 2022 | 2021 | 2020 | 2019 |
 | ---------- | ---------- | ------------ | ---- | ---- | ---- | ---- | ---- |
-| [IJCAI](#IJCAI) | ~January | ~April |   | [🔗](https://ijcai-22.org/main-track-accepted-papers/) | [🔗](https://ijcai-21.org/program-main-track/) | [🔗](http://static.ijcai.org/2020-accepted_papers.html) | [🔗](https://www.ijcai19.org/accepted-papers.html) |
-| [KDD](#KDD) | ~February | ~May |   | [🔗](https://kdd.org/kdd2022/paperRT.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers) | [🔗](https://www.kdd.org/kdd2020/accepted-papers) | [🔗](https://www.kdd.org/kdd2019/accepted-papers) |
-| [CIKM](#CIKM) | ~May | ~August |   | [🔗](https://www.cikm2022.org/papers-posters) | [🔗](https://www.cikm2021.org/accepted-papers) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) |   |
-| [AAAI](#AAAI) | ~Aug | ~November |   | [🔗](https://dblp.org/db/conf/aaai/aaai2022.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2021.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2020.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2019.html) |
-| [WWW](#WWW) | ~October | ~January | [🔗](https://www2023.thewebconf.org/program/accepted-papers/) | [🔗](https://www2022.thewebconf.org/accepted-papers/) | [🔗](https://www2021.thewebconf.org/program/papers/) | [🔗](https://dl.acm.org/doi/proceedings/10.1145/3366423) | [🔗](https://www2019.thewebconf.org/accepted-papers) |
-| | | | | | | | |
-| [ICML](#ICML) | ~January | ~May |   | [🔗](https://icml.cc/Conferences/2022/Schedule) | [🔗](https://icml.cc/Conferences/2021/Schedule) | [🔗](https://icml.cc/Conferences/2020/Schedule) | [🔗](https://icml.cc/Conferences/2019/Schedule) |
-| [NeurIPS](#NeurIPS) | ~May | ~September |   | [🔗](https://nips.cc/Conferences/2022/Schedule) | [🔗](https://papers.nips.cc/paper/2021) | [🔗](https://papers.nips.cc/paper/2020) | [🔗](https://papers.nips.cc/paper/2019) |
-| [ICLR](#ICLR) | ~October | ~January | [🔗](https://openreview.net/group?id=ICLR.cc/2023/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2022/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2021/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference) |   |
-| | | | | | | | |
-| [IROS](#IROS) | ~March | ~June |   | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9981026/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9635848/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9340668/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/8957008/proceeding) |
-| [ICRA](#ICRA) | ~September | ~January |   | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9811522/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9560720/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9187508/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/8780387/proceeding) |
+| [IJCAI](#IJCAI) | ~January | ~April | [🔗](https://ijcai-23.org/main-track-accepted-papers/) | [🔗](https://ijcai-22.org/main-track-accepted-papers/) | [🔗](https://ijcai-21.org/program-main-track/) | [🔗](http://static.ijcai.org/2020-accepted_papers.html) | [🔗](https://www.ijcai19.org/accepted-papers.html) | 
+| [KDD](#KDD) | ~February | ~May |   | [🔗](https://kdd.org/kdd2022/paperRT.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers) | [🔗](https://www.kdd.org/kdd2020/accepted-papers) | [🔗](https://www.kdd.org/kdd2019/accepted-papers) | 
+| [CIKM](#CIKM) | ~May | ~August |   | [🔗](https://www.cikm2022.org/papers-posters) | [🔗](https://www.cikm2021.org/accepted-papers) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) |   | 
+| [AAAI](#AAAI) | ~Aug | ~November |   | [🔗](https://dblp.org/db/conf/aaai/aaai2022.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2021.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2020.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2019.html) | 
+| [WWW](#WWW) | ~October | ~January | [🔗](https://www2023.thewebconf.org/program/accepted-papers/) | [🔗](https://www2022.thewebconf.org/accepted-papers/) | [🔗](https://www2021.thewebconf.org/program/papers/) | [🔗](https://dl.acm.org/doi/proceedings/10.1145/3366423) | [🔗](https://www2019.thewebconf.org/accepted-papers) | 
+| | | | | | | | | 
+| [ICML](#ICML) | ~January | ~May |   | [🔗](https://icml.cc/Conferences/2022/Schedule) | [🔗](https://icml.cc/Conferences/2021/Schedule) | [🔗](https://icml.cc/Conferences/2020/Schedule) | [🔗](https://icml.cc/Conferences/2019/Schedule) | 
+| [NeurIPS](#NeurIPS) | ~May | ~September |   | [🔗](https://nips.cc/Conferences/2022/Schedule) | [🔗](https://papers.nips.cc/paper/2021) | [🔗](https://papers.nips.cc/paper/2020) | [🔗](https://papers.nips.cc/paper/2019) | 
+| [ICLR](#ICLR) | ~October | ~January | [🔗](https://openreview.net/group?id=ICLR.cc/2023/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2022/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2021/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference) |   | 
+| | | | | | | | | 
+| [IROS](#IROS) | ~March | ~June |   | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9981026/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9635848/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9340668/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/8957008/proceeding) | 
+| [ICRA](#ICRA) | ~September | ~January |   | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9811522/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9560720/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9187508/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/8780387/proceeding) | 
 
 
 
@@ -31,7 +20,7 @@
 [Official Collection](https://www.ijcai.org/past_proceedings)
 | Year | Official Website |  Paper List | Deadline | Notification |
 | ---------- | ---------- | ----------- | ---------- | ---------- |
-| 2023| [🏠 website](https://ijcai-23.org/)|  | 2023-01-18| 2023-04-19|
+| 2023| [🏠 website](https://ijcai-23.org/)| [🔗 link](https://ijcai-23.org/main-track-accepted-papers/)| 2023-01-18| 2023-04-19|
 | 2022|  | [🔗 link](https://ijcai-22.org/main-track-accepted-papers/)| 2022-01-14| 2022-04-20|
 | 2021|  | [🔗 link](https://ijcai-21.org/program-main-track/)| | |
 | 2020|  | [🔗 link](http://static.ijcai.org/2020-accepted_papers.html)| | |
