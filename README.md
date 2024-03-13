@@ -4,13 +4,12 @@
 
 ❗ It is highly recommended to utilize the [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf)(in Chinese) to search.
 
-
 # Quick Links
 | Conference | Submission | Notification | 2024 | 2023 | 2022 | 2021 | 2020 |
 | ---------- | ---------- | ------------ | ---- | ---- | ---- | ---- | ---- |
 | [IJCAI](#IJCAI) | ~January | ~April |   | [🔗](https://ijcai-23.org/main-track-accepted-papers/) | [🔗](https://ijcai-22.org/main-track-accepted-papers/) | [🔗](https://ijcai-21.org/program-main-track/) | [🔗](http://static.ijcai.org/2020-accepted_papers.html) | 
 | [KDD](#KDD) | ~February | ~May |   | [🔗](https://kdd.org/kdd2023/research-track-papers-list/) | [🔗](https://kdd.org/kdd2022/paperRT.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers) | [🔗](https://www.kdd.org/kdd2020/accepted-papers) | 
-| [CIKM](#CIKM) | ~May | ~August | [🔗](https://cikm2024.org/) | [🔗](https://uobevents.eventsair.com/cikm2023/accepted-papers) | [🔗](https://www.cikm2022.org/papers-posters) | [🔗](https://www.cikm2021.org/accepted-papers) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) | 
+| [CIKM](#CIKM) | ~May | ~August |   | [🔗](https://uobevents.eventsair.com/cikm2023/accepted-papers) | [🔗](https://www.cikm2022.org/papers-posters) | [🔗](https://www.cikm2021.org/accepted-papers) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) | 
 | [AAAI](#AAAI) | ~Aug | ~November | [🔗](https://aaai.org/wp-content/uploads/2023/12/Main-Track.pdf) | [🔗](https://dblp.org/db/conf/aaai/aaai2023.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2022.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2021.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2020.html) | 
 | [WWW](#WWW) | ~October | ~January | [🔗](https://www2024.thewebconf.org/accepted/research-tracks/) | [🔗](https://www2023.thewebconf.org/program/accepted-papers/) | [🔗](https://www2022.thewebconf.org/accepted-papers/) | [🔗](https://www2021.thewebconf.org/program/papers/) | [🔗](https://dl.acm.org/doi/proceedings/10.1145/3366423) | 
 | | | | | | | | | 
@@ -57,7 +56,7 @@
 ## CIKM
 | Year | Official Website |  Paper List | Deadline | Notification |
 | ---------- | ---------- | ----------- | ---------- | ---------- |
-| 2024|  | [🔗 link](https://cikm2024.org/)| 2024-05-20| 2024-07-16|
+| 2024| [🏠 website](https://cikm2024.org/)|  | 2024-05-20| 2024-07-16|
 | 2023| [🏠 website](https://uobevents.eventsair.com/cikm2023/)| [🔗 link](https://uobevents.eventsair.com/cikm2023/accepted-papers)| 2023-05-26| 2023-08-04|
 | 2022| [🏠 website](https://www.cikm2022.org/)| [🔗 link](https://www.cikm2022.org/papers-posters)| | |
 | 2021|  | [🔗 link](https://www.cikm2021.org/accepted-papers)| | |
