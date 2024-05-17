@@ -4,10 +4,13 @@
 
 ❗ It is highly recommended to utilize the [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf)(in Chinese) to search.
 
+
+
 # Quick Links
+
 | Conference | Submission | Notification | 2024 | 2023 | 2022 | 2021 | 2020 |
 | ---------- | ---------- | ------------ | ---- | ---- | ---- | ---- | ---- |
-| [IJCAI](#IJCAI) | ~January | ~April |   | [🔗](https://ijcai-23.org/main-track-accepted-papers/) | [🔗](https://ijcai-22.org/main-track-accepted-papers/) | [🔗](https://ijcai-21.org/program-main-track/) | [🔗](http://static.ijcai.org/2020-accepted_papers.html) | 
+| [IJCAI](#IJCAI) | ~January | ~April | [🔗](https://ijcai24.org/main-track-accepted-papers/) | [🔗](https://ijcai-23.org/main-track-accepted-papers/) | [🔗](https://ijcai-22.org/main-track-accepted-papers/) | [🔗](https://ijcai-21.org/program-main-track/) | [🔗](http://static.ijcai.org/2020-accepted_papers.html) | 
 | [KDD](#KDD) | ~February | ~May |   | [🔗](https://kdd.org/kdd2023/research-track-papers-list/) | [🔗](https://kdd.org/kdd2022/paperRT.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers) | [🔗](https://www.kdd.org/kdd2020/accepted-papers) | 
 | [CIKM](#CIKM) | ~May | ~August |   | [🔗](https://uobevents.eventsair.com/cikm2023/accepted-papers) | [🔗](https://www.cikm2022.org/papers-posters) | [🔗](https://www.cikm2021.org/accepted-papers) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) | 
 | [AAAI](#AAAI) | ~Aug | ~November | [🔗](https://aaai.org/wp-content/uploads/2023/12/Main-Track.pdf) | [🔗](https://dblp.org/db/conf/aaai/aaai2023.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2022.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2021.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2020.html) | 
@@ -26,7 +29,7 @@
 [Official Collection](https://www.ijcai.org/past_proceedings)
 | Year | Official Website |  Paper List | Deadline | Notification |
 | ---------- | ---------- | ----------- | ---------- | ---------- |
-| 2024| [🏠 website](https://ijcai24.org/)|  | 2024-01-17| 2024-04-16|
+| 2024| [🏠 website](https://ijcai24.org/)| [🔗 link](https://ijcai24.org/main-track-accepted-papers/)| 2024-01-17| 2024-04-16|
 | 2023| [🏠 website](https://ijcai-23.org/)| [🔗 link](https://ijcai-23.org/main-track-accepted-papers/)| 2023-01-18| 2023-04-19|
 | 2022|  | [🔗 link](https://ijcai-22.org/main-track-accepted-papers/)| 2022-01-14| 2022-04-20|
 | 2021|  | [🔗 link](https://ijcai-21.org/program-main-track/)| | |
@@ -98,7 +101,7 @@ TheWebConf
 ## ICML
 | Year | Official Website |  Paper List | Deadline | Notification |
 | ---------- | ---------- | ----------- | ---------- | ---------- |
-| 2024| [🏠 website](https://icml.cc/Conferences/2024)|  | | |
+| 2024| [🏠 website](https://icml.cc/Conferences/2024)|  | 2024-02-01| 2024-05-01|
 | 2023| [🏠 website](https://icml.cc/Conferences/2023)| [🔗 link](https://icml.cc/Conferences/2023/Schedule)| 2023-01-26| 2023-04-24|
 | 2022| [🏠 website](https://icml.cc/Conferences/2022)| [🔗 link](https://icml.cc/Conferences/2022/Schedule)| | |
 | 2021| [🏠 website](https://icml.cc/Conferences/2021)| [🔗 link](https://icml.cc/Conferences/2021/Schedule)| | |
