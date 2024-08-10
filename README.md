@@ -21,7 +21,7 @@
 | [ICLR](#ICLR) | ~October | ~January | [🔗](https://openreview.net/group?id=ICLR.cc/2024/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2023/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2022/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2021/Conference) | [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference) | 
 | | | | | | | | | 
 | [IROS](#IROS) | ~March | ~June |   | [🔗](https://ieeexplore.ieee.org/xpl/conhome/10341341/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9981026/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9635848/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9340668/proceeding) | 
-| [ICRA](#ICRA) | ~September | ~January |   | [🔗](https://ieeexplore.ieee.org/xpl/conhome/10160211/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9811522/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9560720/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9187508/proceeding) | 
+| [ICRA](#ICRA) | ~September | ~January | [🔗](https://ieeexplore.ieee.org/xpl/conhome/10609961/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/10160211/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9811522/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9560720/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9187508/proceeding) | 
 
 
 
@@ -153,7 +153,7 @@ TheWebConf
 [Official Collection](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings)
 | Year | Official Website |  Paper List | Deadline | Notification |
 | ---------- | ---------- | ----------- | ---------- | ---------- |
-| 2024| [🏠 website](http://ieee-icra.org/index.html)|  | 2023-09-15| 2023-12-21|
+| 2024| [🏠 website](http://ieee-icra.org/index.html)| [🔗 link](https://ieeexplore.ieee.org/xpl/conhome/10609961/proceeding)| 2023-09-15| 2023-12-21|
 | 2023| [🏠 website](https://www.icra2023.org/welcome)| [🔗 link](https://ieeexplore.ieee.org/xpl/conhome/10160211/proceeding)| 2022-09-22| 2023-01-31|
 | 2022|  | [🔗 link](https://ieeexplore.ieee.org/xpl/conhome/9811522/proceeding)| | |
 | 2021|  | [🔗 link](https://ieeexplore.ieee.org/xpl/conhome/9560720/proceeding)| | |
